@@ -160,6 +160,6 @@ footer .newsletter .email-field input {
     background-color: #F6F6F6;
     width: 48%;
     border-radius: 1.3vw;
-    box-shadow: 0 12px 21px rgba(0, 0, 0, .1);
+    box-shadow: 0 0 21px rgba(0, 0, 0, .1);
   }
 }

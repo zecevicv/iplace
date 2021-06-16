@@ -189,3 +189,9 @@ footer .newsletter .email-field input {
     justify-content: space-between;
   }
 }
+
+/* #Product
+================================================== */
+.single-product .site-main {
+  margin-top: 2vw;
+}

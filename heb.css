@@ -149,7 +149,7 @@ footer .newsletter .email-field input {
     background-color: white;
   }
 
-  .woocommerce-shop .site-main .products-container .order-form-wrapper .category-clear-sort {
+  .order-form-wrapper .category-clear-sort {
     flex: 0 0 100%;
     order: -2;
     margin-bottom: 4vw;

@@ -196,6 +196,10 @@ footer .newsletter .email-field input {
   margin-top: 2.25vw;
 }
 
+.single-product .woocommerce .woocommerce-breadcrumb {
+  padding-right: 3.64vw;
+}
+
 @media (max-width: 1023.98px) {
   .single-product .site-main {
     margin-top: 4.16vw;

@@ -120,7 +120,8 @@ footer .newsletter .email-field input {
   .woocommerce-shop .site-main .products-container .category-items-data-list ul li .facetwp-selection-value, 
   .woocommerce.tax-product_cat .site-main .products-container .category-items-data-list ul li .facetwp-selection-value {
     padding: 1.3rem 4rem;
-    padding-right: 5rem;
+    padding-right: 6rem;
+    background-position: center right 1.5rem;
   }
 
   .woocommerce-shop .site-main .products-container .result-count-wrapper, .woocommerce.tax-product_cat .site-main .products-container .result-count-wrapper {

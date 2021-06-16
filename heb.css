@@ -128,4 +128,8 @@ footer .newsletter .email-field input {
   .woocommerce-shop .site-main .products-container .result-count-wrapper, .woocommerce.tax-product_cat .site-main .products-container .result-count-wrapper {
     margin-bottom: 4vw;
   }
+
+  .woocommerce-shop .site-main .products-container .woocommerce-result-count, .woocommerce.tax-product_cat .site-main .products-container .woocommerce-result-count {
+    margin-bottom: 4vw;
+  }
 }

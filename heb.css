@@ -1,5 +1,14 @@
 /* #Global
 ================================================== */
+/* Header */
+.card .links {
+  justify-content: center;
+}
+
+.card .links > * {
+  margin: 0 .5vw;
+}
+
 @media (max-width: 1023.98px) {
   .card.horizontal {
     box-shadow: 0px 12px 21px #00000029;
@@ -46,15 +55,6 @@ footer .newsletter .email-field input {
 
 /* #Home
 ================================================== */
-
-/* Header */
-#home-header .card .links {
-  justify-content: center;
-}
-
-#home-header .card .links > * {
-  margin: 0 .5vw;
-}
 
 /* Properties */
 @media (max-width: 1023.98px) {

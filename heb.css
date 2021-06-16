@@ -45,6 +45,10 @@ footer .newsletter .email-field input {
   #home-properties .properties-container .property {
     width: 45rem;
   }
+
+  #home-properties .properties-container .property:first-child {
+    border: none;
+  }
 }
 
 /* #Swiper Pagination

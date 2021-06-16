@@ -22,7 +22,7 @@
 
 /* #Swiper Pagination
 ================================================== */
-.swiper-pagination-bullet-active {
+.swiper-pagination-bullet.swiper-pagination-bullet-active {
   background: #007AFF;
 }
 

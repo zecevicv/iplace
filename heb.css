@@ -204,4 +204,8 @@ footer .newsletter .email-field input {
   .single-product .site-main {
     margin-top: 4.16vw;
   }
+
+  .single-product .woocommerce-breadcrumb {
+    padding-right: 0;
+  }
 }

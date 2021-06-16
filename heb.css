@@ -115,7 +115,7 @@ footer .newsletter .email-field input {
 
   .woocommerce-shop .site-main .products-container .category-items-data-list, .woocommerce.tax-product_cat .site-main .products-container .category-items-data-list {
     padding-right: 4vw;
-    margin-top: 4vw;
+    margin-bottom: 4vw;
   }
 
   .woocommerce-shop .site-main .products-container .category-items-data-list ul li .facetwp-selection-value, 
@@ -126,7 +126,7 @@ footer .newsletter .email-field input {
   }
 
   .woocommerce-shop .site-main .products-container .result-count-wrapper, .woocommerce.tax-product_cat .site-main .products-container .result-count-wrapper {
-    margin-bottom: 4vw;
+    margin-bottom: 0;
   }
 
   .woocommerce-shop .site-main .products-container .woocommerce-result-count, .woocommerce.tax-product_cat .site-main .products-container .woocommerce-result-count {

@@ -107,4 +107,9 @@ footer .newsletter .email-field input {
   .woocommerce.tax-product_cat .site-main .products-container .order-form-wrapper .category-clear-sort .btn-reset-sort-select {
     font-size: 4vw;
   }
+
+  .woocommerce-shop .site-main .woocommerce-breadcrumb, .woocommerce.tax-product_cat .site-main .woocommerce-breadcrumb {
+    padding-right: 4vw;
+    padding-top: 4vw;
+  }
 }

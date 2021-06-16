@@ -115,6 +115,7 @@ footer .newsletter .email-field input {
 
   .woocommerce-shop .site-main .products-container .category-items-data-list, .woocommerce.tax-product_cat .site-main .products-container .category-items-data-list {
     padding-right: 4vw;
+    margin-top: 4vw;
   }
 
   .woocommerce-shop .site-main .products-container .category-items-data-list ul li .facetwp-selection-value, 

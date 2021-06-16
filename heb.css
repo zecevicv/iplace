@@ -98,3 +98,9 @@ footer .newsletter .email-field input {
 .facetwp-selections .facetwp-selection-value {
   font-size: 0.83vw;
 }
+
+@media (max-width: 1023.98px) {
+  .facetwp-selections .facetwp-selection-value {
+    font-size: 4vw;
+  }
+}

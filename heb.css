@@ -8,6 +8,10 @@
   .circle .circle-text {
     font-size: 3.2rem;
   }
+
+  .card.horizontal.small .card-content {
+    flex-grow: 1;
+  }
 }
 
 /* #Header

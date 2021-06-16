@@ -7,3 +7,9 @@
 .header .header-logo {
   margin-left: 17vw;
 }
+
+/* #Home
+================================================== */
+#home-header .card .links {
+  justify-content: center;
+}

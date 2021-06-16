@@ -112,4 +112,8 @@ footer .newsletter .email-field input {
     padding-right: 4vw;
     padding-top: 4vw;
   }
+
+  .woocommerce-shop .site-main .products-container .category-items-data-list, .woocommerce.tax-product_cat .site-main .products-container .category-items-data-list {
+    padding-right: 4vw;
+  }
 }

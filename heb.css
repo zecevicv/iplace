@@ -95,7 +95,9 @@ footer .newsletter .email-field input {
 
 /* #Shop
 ================================================== */
-.facetwp-selections .facetwp-selection-value {
+.facetwp-selections .facetwp-selection-value,
+.woocommerce-shop .site-main .products-container .order-form-wrapper .category-clear-sort .btn-reset-sort-select, 
+.woocommerce.tax-product_cat .site-main .products-container .order-form-wrapper .category-clear-sort .btn-reset-sort-select {
   font-size: 0.83vw;
 }
 

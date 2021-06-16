@@ -8,6 +8,20 @@
   margin-left: 17vw;
 }
 
+/* #Footer
+================================================== */
+footer .newsletter .email-field input {
+  padding-bottom: .52083rem;
+  padding-top: .52083rem;
+}
+
+@media (max-width: 1023.98px) {
+  footer .newsletter .email-field input {
+    padding-bottom: 1.06667rem;
+    padding-top: 1.06667rem;
+  }
+}
+
 /* #Home
 ================================================== */
 

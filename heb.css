@@ -69,7 +69,8 @@ footer .newsletter .email-field input {
     flex-wrap: wrap;
   }
 
-  .home-slides-toggle .home-slides-toggle-content .home-choose-type .radio-btn {
+  .home-slides-toggle .home-slides-toggle-content .home-choose-type .radio-btn,
+  .home-slides-toggle .home-slides-toggle-content .home-choose-type .radio-btn label {
     display: block;
   }
 }

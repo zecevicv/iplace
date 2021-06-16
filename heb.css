@@ -145,7 +145,7 @@ footer .newsletter .email-field input {
     flex-wrap: wrap;
   }
 
-  .woocommerce.tax-product_cat .site-main .products-container .order-form-wrapper .category-clear-sort.trigger-reset-sort-select-wrapp {
+  .woocommerce.tax-product_cat .site-main .products-container .order-form-wrapper .category-clear-sort {
     flex: 0 0 100%;
   }
 }

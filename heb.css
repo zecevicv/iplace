@@ -154,6 +154,7 @@ footer .newsletter .email-field input {
     order: -2;
     margin-bottom: 4vw;
     margin-top: -3vw;
+    text-align: right;
   }
 
   .woocommerce-shop .site-main .products-container .order-form-wrapper .mobile-filter-btn-wrap, 

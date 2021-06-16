@@ -21,6 +21,10 @@
   .card.horizontal.small .card-content {
     flex-grow: 1;
   }
+
+  .card .links > * {
+    margin: 0 1.3vw;
+  }
 }
 
 /* #Header

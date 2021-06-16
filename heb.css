@@ -174,4 +174,9 @@ footer .newsletter .email-field input {
     align-items: center;
     justify-content: center;
   }
+
+  .woocommerce-shop .site-main .products-container .order-form-wrapper, 
+  .woocommerce.tax-product_cat .site-main .products-container .order-form-wrapper {
+    background-color: white;
+  }
 }

@@ -116,4 +116,10 @@ footer .newsletter .email-field input {
   .woocommerce-shop .site-main .products-container .category-items-data-list, .woocommerce.tax-product_cat .site-main .products-container .category-items-data-list {
     padding-right: 4vw;
   }
+
+  .woocommerce-shop .site-main .products-container .category-items-data-list ul li .facetwp-selection-value, 
+  .woocommerce.tax-product_cat .site-main .products-container .category-items-data-list ul li .facetwp-selection-value {
+    padding: 1.3rem 4rem;
+    padding-right: 4rem;
+  }
 }

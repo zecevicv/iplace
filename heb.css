@@ -161,5 +161,6 @@ footer .newsletter .email-field input {
     width: 48%;
     border-radius: 1.3vw;
     box-shadow: 0 0 21px rgba(0, 0, 0, .1);
+    border: none;
   }
 }

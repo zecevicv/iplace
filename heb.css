@@ -3,3 +3,7 @@
 .header .nav-icon:last-child {
   margin-left: 0;
 } 
+
+.header .header-logo {
+  margin-left: auto;
+}

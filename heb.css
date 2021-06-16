@@ -106,6 +106,7 @@ footer .newsletter .email-field input {
   .woocommerce-shop .site-main .products-container .order-form-wrapper .category-clear-sort .btn-reset-sort-select, 
   .woocommerce.tax-product_cat .site-main .products-container .order-form-wrapper .category-clear-sort .btn-reset-sort-select {
     font-size: 4vw;
+    padding: 1.3rem 4rem;
   }
 
   .woocommerce-shop .site-main .woocommerce-breadcrumb, .woocommerce.tax-product_cat .site-main .woocommerce-breadcrumb {

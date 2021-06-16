@@ -204,6 +204,10 @@ footer .newsletter .email-field input {
   padding: 2.5rem 17.5rem 0 17.5rem;
 }
 
+.woocommerce div.product .woocommerce-tabs .panel > *:first-child {
+  margin-bottom: 1vw;
+}
+
 @media (max-width: 1023.98px) {
   .single-product .site-main {
     margin-top: 4.16vw;
@@ -215,5 +219,9 @@ footer .newsletter .email-field input {
 
   #product-purchase-properties-container {
     padding: 6.93333rem 4.8rem 0 4.8rem;
+  }
+
+  .woocommerce div.product .woocommerce-tabs .panel > *:first-child {
+    margin-bottom: 2.66vw;
   }
 }

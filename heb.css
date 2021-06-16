@@ -157,5 +157,6 @@ footer .newsletter .email-field input {
   .woocommerce-shop .site-main .products-container .order-form-wrapper .mobile-filter-btn-wrap, 
   .woocommerce.tax-product_cat .site-main .products-container .order-form-wrapper .mobile-filter-btn-wrap {
     background-color: #F6F6F6;
+    width: 48%;
   }
 }

@@ -19,9 +19,3 @@
 #home-header .card .links > * {
   margin: 0 .5vw;
 }
-
-@media (min-width: 1024px) {
-  #home-header .card.horizontal.large {
-    padding: 2rem 1.47493% 2rem 1.47493%;
-  }
-}

@@ -151,6 +151,8 @@ footer .newsletter .email-field input {
   .woocommerce-shop .site-main .products-container .order-form-wrapper .category-clear-sort {
     flex: 0 0 100%;
     order: -2;
+    margin-bottom: 4vw;
+    margin-top: -2vw;
   }
 
   .woocommerce-shop .site-main .products-container .order-form-wrapper .mobile-filter-btn-wrap, 

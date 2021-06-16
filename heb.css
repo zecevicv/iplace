@@ -122,4 +122,8 @@ footer .newsletter .email-field input {
     padding: 1.3rem 4rem;
     padding-right: 4rem;
   }
+
+  .woocommerce-shop .site-main .products-container .result-count-wrapper, .woocommerce.tax-product_cat .site-main .products-container .result-count-wrapper {
+    margin-bottom: 4vw;
+  }
 }

@@ -144,6 +144,7 @@ footer .newsletter .email-field input {
     align-items: center;
     flex-wrap: wrap;
     text-align: right;
+    justify-content: space-between;
     background-color: white;
   }
 

@@ -63,6 +63,13 @@ footer .newsletter .email-field input {
   }
 }
 
+/* Choose */
+@media (max-width: 1023.98px) {
+  .home-slides-toggle .home-slides-toggle-content .home-choose-type {
+    flex-wrap: wrap;
+  }
+}
+
 /* #Swiper Pagination
 ================================================== */
 .swiper-pagination-bullet.swiper-pagination-bullet-active {

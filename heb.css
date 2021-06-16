@@ -25,8 +25,3 @@
 .swiper-pagination-bullet.swiper-pagination-bullet-active {
   background: #007AFF;
 }
-
-.swiper-pagination-bullet {
-  background: #F0F0F0;
-  opacity: 1;
-}

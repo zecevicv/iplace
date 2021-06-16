@@ -142,5 +142,10 @@ footer .newsletter .email-field input {
   .woocommerce.tax-product_cat .site-main .products-container .order-form-wrapper .products-container {
     display: flex;
     align-items: center;
+    flex-wrap: wrap;
+  }
+
+  .woocommerce.tax-product_cat .site-main .products-container .order-form-wrapper .category-clear-sort.trigger-reset-sort-select-wrapp {
+    flex: 0 0 100%;
   }
 }

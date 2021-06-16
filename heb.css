@@ -132,4 +132,9 @@ footer .newsletter .email-field input {
   .woocommerce-shop .site-main .products-container .woocommerce-result-count, .woocommerce.tax-product_cat .site-main .products-container .woocommerce-result-count {
     margin-bottom: 4vw;
   }
+
+  .woocommerce-shop .site-main .top-filter-category, 
+  .woocommerce.tax-product_cat .site-main .top-filter-category {
+    margin-bottom: 6vw;
+  }
 }

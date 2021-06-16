@@ -143,6 +143,7 @@ footer .newsletter .email-field input {
     display: flex;
     align-items: center;
     flex-wrap: wrap;
+    text-align: right;
   }
 
   .woocommerce-shop .site-main .products-container .order-form-wrapper .category-clear-sort {

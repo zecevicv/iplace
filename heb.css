@@ -195,3 +195,9 @@ footer .newsletter .email-field input {
 .single-product .site-main {
   margin-top: 2.25vw;
 }
+
+@media (max-width: 1023.98px) {
+  .single-product .site-main {
+    margin-top: 4.16vw;
+  }
+}

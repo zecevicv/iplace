@@ -212,4 +212,8 @@ footer .newsletter .email-field input {
   .single-product .woocommerce-breadcrumb {
     padding-right: 0;
   }
+
+  #product-purchase-properties-container {
+    padding: 6.93333rem 4.8rem 0 4.8rem;
+  }
 }

@@ -38,6 +38,10 @@ footer .newsletter .email-field input {
     padding-top: 1.06667rem;
     font-size: 4vw;
   }
+
+  footer .footer-nav-container {
+    padding-top: 3vw;
+  }
 }
 
 /* #Home

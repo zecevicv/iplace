@@ -399,5 +399,6 @@ footer .newsletter .email-field input {
     display: inline-flex;
     align-items: center;
     justify-content: center;
+    border-radius: 50%;
   }
 }

@@ -409,7 +409,8 @@ footer .newsletter .email-field input {
 
 /* #Cart Popup
 ================================================== */
-.cart-container .cart-footer .btn svg {
+.cart-container .cart-footer .btn svg,
+.cart-container .cart-footer .btn svg > * {
   color: white;
   stroke: white;
 }

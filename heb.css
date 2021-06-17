@@ -401,4 +401,8 @@ footer .newsletter .email-field input {
     justify-content: center;
     border-radius: 50%;
   }
+
+  .paginate-links-row {
+    margin-bottom: 10vw;
+  }
 }

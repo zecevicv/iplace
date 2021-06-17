@@ -380,8 +380,12 @@ footer .newsletter .email-field input {
 
 /* #Customer Service
 ================================================== */
+#customer-service-faq-container #customer-service-faq-nav .swiper-container {
+  margin-right: 0;
+}
+
 @media (max-width: 1023.98px) {
   #customer-service-container {
-    padding-top: 10vw;
+    padding-top: 0;
   }
 }

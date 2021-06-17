@@ -220,6 +220,16 @@ footer .newsletter .email-field input {
   margin-bottom: 3.875rem;
 }
 
+#product-purchase-price-total-note {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#product-purchase-price-total-note svg {
+  margin-right: 1vw;
+}
+
 @media (max-width: 1023.98px) {
   .single-product .site-main {
     margin-top: 4.16vw;
@@ -308,15 +318,9 @@ footer .newsletter .email-field input {
     width: 38.46667rem;
   }
 
-  #product-purchase-price-total-note {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
-
   #product-purchase-price-total-note svg {
-    margin-right: 2vw;
-  }
+    margin-right: 1vw;
+  }  
 }
 
 /* #Checkout

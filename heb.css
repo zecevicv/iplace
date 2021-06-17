@@ -341,4 +341,8 @@ footer .newsletter .email-field input {
   .woocommerce-account.logged-out .woocommerce h2, .woocommerce-account.logged-out .woocommerce h3 {
     font-size: 4vw;
   }
+
+  .woocommerce-account.logged-out .woocommerce .u-column1 {
+    margin-bottom: 8vw;
+  }
 }

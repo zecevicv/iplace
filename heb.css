@@ -395,8 +395,8 @@ footer .newsletter .email-field input {
     height: 8vw;
   }
 
-  .pagination-list-wrapper .page-numbers.prev, .pagination-list-wrapper .page-numbers.next {
-    display: flex;
+  .pagination-list-wrapper .page-numbers {
+    display: inline-flex;
     align-items: center;
     justify-content: center;
   }

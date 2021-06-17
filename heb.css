@@ -271,6 +271,10 @@ footer .newsletter .email-field input {
     padding: 3rem 4.06rem;
   }
 
+  .woocommerce-variation.single_variation p {
+    font-size: 4vw;
+  }
+
   .woocommerce div.product form.cart .reset_variations {
     font-size: 4rem;
     margin-top: 3vw;

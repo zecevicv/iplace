@@ -307,4 +307,10 @@ footer .newsletter .email-field input {
   #product-purchase-why-container #product-purchase-why .product-purchase-why-item .p2 {
     width: 38.46667rem;
   }
+
+  #product-purchase-price-total-note {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
 }

@@ -273,5 +273,6 @@ footer .newsletter .email-field input {
   .woocommerce div.product form.cart .reset_variations {
     font-size: 4rem;
     margin-top: 3vw;
+    display: inline-block;
   }
 }

@@ -345,4 +345,13 @@ footer .newsletter .email-field input {
   .woocommerce-account.logged-out .woocommerce .u-column1 {
     margin-bottom: 8vw;
   }
+
+  .woocommerce form .form-row {
+    padding: 0;
+  }
+
+  .woocommerce-account.logged-out .woocommerce .u-column1, 
+  .woocommerce-account.logged-out .woocommerce .u-column2 {
+    padding: 3.08333rem 4.30208rem;
+  }
 }

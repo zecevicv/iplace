@@ -366,4 +366,9 @@ footer .newsletter .email-field input {
   .woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button {
     padding-left: 0;
   }
+
+  .woocommerce .woocommerce-orders-table__cell.woocommerce-orders-table__cell-order-actions {
+    display: flex;
+    align-items: center;
+  }
 }

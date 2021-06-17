@@ -372,4 +372,8 @@ footer .newsletter .email-field input {
     align-items: center;
     justify-content: space-between;
   }
+
+  .woocommerce-account .woocommerce .woocommerce-MyAccount-content .woocommerce-Address {
+    padding: 4rem;
+  }
 }

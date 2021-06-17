@@ -279,4 +279,8 @@ footer .newsletter .email-field input {
   .yith_wapo_group_total table td {
     font-size: 3rem;
   }
+
+  #product-purchase-properties-container #product-purchase-properties-content #product-purchase-price-total #product-purchase-price-total-btn, #product-purchase-properties-container #product-purchase-properties-content #product-purchase-price-total .single_add_to_cart_button {
+    width: 100%;
+  }
 }

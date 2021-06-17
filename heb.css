@@ -370,5 +370,6 @@ footer .newsletter .email-field input {
   .woocommerce .woocommerce-orders-table__cell.woocommerce-orders-table__cell-order-actions {
     display: flex;
     align-items: center;
+    justify-content: space-between;
   }
 }

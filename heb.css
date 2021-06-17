@@ -341,7 +341,7 @@ footer .newsletter .email-field input {
   align-items: stretch;
 }
 
-.woocommerce-account .woocommerce .woocommerce-MyAccount-navigation ul .woocommerce-MyAccount-navigation-link.is-active>a {
+.woocommerce-account .woocommerce .woocommerce-MyAccount-navigation ul .woocommerce-MyAccount-navigation-link>a {
   height: 100%;
 }
 

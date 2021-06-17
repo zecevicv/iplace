@@ -328,3 +328,9 @@ footer .newsletter .email-field input {
 .cart-terms>div p {
   margin-bottom: 0;
 }
+
+@media (max-width: 1023.98px) {
+  .woocommerce ul.order_details {
+    font-size: 4vw;
+  }
+}

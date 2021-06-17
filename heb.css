@@ -299,4 +299,12 @@ footer .newsletter .email-field input {
   #product-purchase-strips-container {
     font-size: 4vw;
   }
+
+  #product-purchase-why-container #product-purchase-why {
+    padding: 0 8.13333rem;
+  }
+
+  #product-purchase-why-container #product-purchase-why .product-purchase-why-item .p2 {
+    width: 38.46667rem;
+  }
 }

@@ -275,4 +275,8 @@ footer .newsletter .email-field input {
     margin-top: 3vw;
     display: inline-block;
   }
+
+  .yith_wapo_group_total table td {
+    font-size: 4rem;
+  }
 }

@@ -362,4 +362,8 @@ footer .newsletter .email-field input {
   .woocommerce-account.logged-out .woocommerce .u-column2 {
     padding: 3.08333rem 4.30208rem;
   }
+
+  .woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button {
+    padding-left: 0;
+  }
 }

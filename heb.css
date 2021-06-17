@@ -377,3 +377,11 @@ footer .newsletter .email-field input {
     padding: 4rem;
   }
 }
+
+/* #Customer Service
+================================================== */
+@media (max-width: 1023.98px) {
+  #customer-service-container {
+    padding-top: 10vw;
+  }
+}

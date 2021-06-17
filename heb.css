@@ -313,4 +313,8 @@ footer .newsletter .email-field input {
     align-items: center;
     justify-content: center;
   }
+
+  #product-purchase-price-total-note img {
+    margin-right: 2vw;
+  }
 }

@@ -414,3 +414,15 @@ footer .newsletter .email-field input {
   color: white;
   stroke: white;
 }
+
+/* #TV Page
+================================================== */
+#product-purchase-popular {
+  padding-top: 3vw;
+}
+
+@media (max-width: 1023.98px) {
+  #product-purchase-popular {
+    padding-top: 0;
+  }
+}

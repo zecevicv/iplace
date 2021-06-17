@@ -318,3 +318,9 @@ footer .newsletter .email-field input {
     margin-right: 2vw;
   }
 }
+
+/* #Checkout
+================================================== */
+.cart-terms>div p {
+  margin-bottom: 0;
+}

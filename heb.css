@@ -295,4 +295,8 @@ footer .newsletter .email-field input {
     padding: 3rem 6.66667rem;
     margin-bottom: 4vw;
   }
+
+  #product-purchase-strips-container {
+    font-size: 4vw;
+  }
 }

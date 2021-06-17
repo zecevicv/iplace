@@ -212,6 +212,10 @@ footer .newsletter .email-field input {
   flex-grow: 1;
 }
 
+#product-purchase-choose #productPurchaseChooseSlider .item-column {
+  margin-bottom: 3.875rem;
+}
+
 @media (max-width: 1023.98px) {
   .single-product .site-main {
     margin-top: 4.16vw;
@@ -227,5 +231,9 @@ footer .newsletter .email-field input {
 
   .woocommerce div.product .woocommerce-tabs .panel > *:first-child {
     margin-bottom: 2.66vw;
+  }
+
+  #product-purchase-choose #productPurchaseChooseSlider .item-column {
+    margin-bottom: 7.8rem;
   }
 }

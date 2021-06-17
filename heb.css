@@ -337,6 +337,14 @@ footer .newsletter .email-field input {
 
 /* #My Account
 ================================================== */
+.woocommerce-account .woocommerce .woocommerce-MyAccount-navigation ul {
+  align-items: stretch;
+}
+
+.woocommerce-account .woocommerce .woocommerce-MyAccount-navigation ul .woocommerce-MyAccount-navigation-link.is-active>a {
+  height: 100%;
+}
+
 @media (max-width: 1023.98px) {
   .woocommerce-account.logged-out .woocommerce h2, .woocommerce-account.logged-out .woocommerce h3 {
     font-size: 4vw;

@@ -419,6 +419,10 @@ footer .newsletter .email-field input {
   display: block;
 }
 
+.cart-container {
+  z-index: 1000;
+}
+
 @media (max-width: 1023.98px) {
   .cart-container .cart-items .cart-item .cart-item-footer .cart-item-amount button.product-quantity {
     width: 6.66667rem;

@@ -437,6 +437,10 @@ footer .newsletter .email-field input {
     line-height: 6.66667rem;
     margin: 0 3rem;
   }
+
+  .cart-container .cart-items .cart-item .cart-item-footer {
+    display: block;
+  }
 }
 
 /* #TV Page

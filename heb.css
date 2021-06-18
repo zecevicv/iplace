@@ -415,6 +415,10 @@ footer .newsletter .email-field input {
   stroke: white;
 }
 
+.cart-container .cart-items {
+  display: block;
+}
+
 /* #TV Page
 ================================================== */
 #product-purchase-popular {

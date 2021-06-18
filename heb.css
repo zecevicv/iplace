@@ -386,7 +386,7 @@ footer .newsletter .email-field input {
 
 @media (max-width: 1023.98px) {
   #customer-service-container {
-    padding-top: 0;
+    padding-top: 10vw;
   }
 
   .pagination-list-wrapper .page-numbers {

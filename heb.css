@@ -440,6 +440,16 @@ footer .newsletter .email-field input {
   right: 0;
 }
 
+.woocommerce #respond input#submit, 
+.woocommerce a.button, 
+.woocommerce button.button, 
+.woocommerce input.button {
+  background-color: #2997FF;
+  color: #fff;
+  padding: .26042rem 1.40625rem;
+  font-size: 1.04167rem;
+}
+
 @media (max-width: 1023.98px) {
   .cart-container .cart-items .cart-item .cart-item-footer .cart-item-amount button.product-quantity {
     width: 6.66667rem;

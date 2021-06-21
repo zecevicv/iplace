@@ -224,6 +224,14 @@ footer .newsletter .email-field input {
   .woocommerce-shop .site-main .top-filter-category .top-filter-container .top-filter-box .img-cat-filter-wrapp, 
   .woocommerce.tax-product_cat .site-main .top-filter-category .top-filter-container .top-filter-box .img-cat-filter-wrapp {
   }
+
+  .woocommerce-shop .site-main .shop-sidebar-wrappe aside.sidebar .side-filter-list .filter-item-content .facetwp-facet .facetwp-checkbox.checked::after, 
+  .woocommerce.tax-product_cat .site-main .shop-sidebar-wrappe aside.sidebar .side-filter-list .filter-item-content .facetwp-facet .facetwp-checkbox.checked::after {
+    top: .175vw;
+    right: .175vw;
+    width: 2.4vw;
+    height: 2.4vw;
+  }
 }
 
 /* #Product

@@ -119,6 +119,17 @@ footer .newsletter .email-field input {
   border-radius: 50%;
 }
 
+.woocommerce-shop .site-main .shop-sidebar-wrappe aside.sidebar .side-filter-list .filter-item-content .facetwp-facet .facetwp-checkbox.checked::after, 
+.woocommerce.tax-product_cat .site-main .shop-sidebar-wrappe aside.sidebar .side-filter-list .filter-item-content .facetwp-facet .facetwp-checkbox.checked::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 0.5vw;
+  height: 0.5vw;
+  background-color: black;
+}
+
 @media (max-width: 1023.98px) {
   .facetwp-selections .facetwp-selection-value,
   .woocommerce-shop .site-main .products-container .order-form-wrapper .category-clear-sort .btn-reset-sort-select, 

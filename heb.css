@@ -1,5 +1,15 @@
 /* #Global
 ================================================== */
+.p2 {
+  font-size: .9375rem!important;
+}
+
+@media (max-width: 1024px) {
+  .p2 {
+    font-size: 3.73333rem!important;
+  }
+}
+
 /* Header */
 .card .links {
   justify-content: center;

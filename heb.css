@@ -62,7 +62,7 @@
   }
 
   .card-container .card-content .purchase-container .prices {
-    font-size: 4.26vw;
+    font-size: 4.26vw!important;
   }
 }
 

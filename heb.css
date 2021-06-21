@@ -448,6 +448,7 @@ footer .newsletter .email-field input {
   color: #fff;
   padding: .26042rem 1.40625rem;
   font-size: 1.04167rem;
+  border-radius: 500px;
 }
 
 @media (max-width: 1023.98px) {

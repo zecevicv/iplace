@@ -73,6 +73,10 @@
   .card-container .card-content .purchase-container a {
     font-size: 3.83vw!important;
   }
+
+  .card-container .card-horizontal .card-content .purchase-container .prices {
+    margin-bottom: 0;
+  }
 }
 
 /* #Header

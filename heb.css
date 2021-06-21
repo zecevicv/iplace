@@ -119,15 +119,20 @@ footer .newsletter .email-field input {
   border-radius: 50%;
 }
 
+.woocommerce-shop .site-main .shop-sidebar-wrappe .filter-item-container .filter-item-content .facetwp-checkbox.checked:before, 
+.woocommerce.tax-product_cat .site-main .shop-sidebar-wrappe .filter-item-container .filter-item-content .facetwp-checkbox.checked:before {
+  border: 1px solid #007AFF;
+}
+
 .woocommerce-shop .site-main .shop-sidebar-wrappe aside.sidebar .side-filter-list .filter-item-content .facetwp-facet .facetwp-checkbox.checked::after, 
 .woocommerce.tax-product_cat .site-main .shop-sidebar-wrappe aside.sidebar .side-filter-list .filter-item-content .facetwp-facet .facetwp-checkbox.checked::after {
   content: '';
   position: absolute;
   top: 0;
   right: 0;
-  width: 0.5vw;
-  height: 0.5vw;
-  background-color: black;
+  width: 0.45vw;
+  height: 0.45vw;
+  background-color: #007AFF;
 }
 
 @media (max-width: 1023.98px) {

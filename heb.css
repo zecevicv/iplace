@@ -10,13 +10,17 @@
   }
 }
 
-/* Header */
 .card .links {
   justify-content: center;
 }
 
 .card .links > * {
   margin: 0 .5vw;
+}
+
+.card.vertical .card-content .woocommerce-loop-product__title {
+  font-size: 1.04vw;
+  margin-bottom: .5vw;
 }
 
 @media (max-width: 1023.98px) {

@@ -129,8 +129,8 @@ footer .newsletter .email-field input {
 .woocommerce.tax-product_cat .site-main .shop-sidebar-wrappe aside.sidebar .side-filter-list .filter-item-content .facetwp-facet .facetwp-checkbox.checked::after {
   content: '';
   position: absolute;
-  top: 0;
-  right: 0;
+  top: .175vw;
+  right: .175vw;
   width: 0.45vw;
   height: 0.45vw;
   background-color: #007AFF;

@@ -432,6 +432,7 @@ footer .newsletter .email-field input {
 .woocommerce-message {
   background-color: transparent;
   color: black;
+  padding: 1em 2em 1em 2em;
 }
 
 .woocommerce-info::before {

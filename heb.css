@@ -107,11 +107,11 @@ footer .newsletter .email-field input {
 .woocommerce-shop .site-main .products-container .order-form-wrapper .category-clear-sort .btn-reset-sort-select, 
 .woocommerce.tax-product_cat .site-main .products-container .order-form-wrapper .category-clear-sort .btn-reset-sort-select {
   font-size: 0.83vw;
+  border: 1px solid #C8C8C8;
 }
 
 .woocommerce-shop .site-main .top-filter-category .top-filter-container .top-filter-box .img-cat-filter-wrapp, 
 .woocommerce.tax-product_cat .site-main .top-filter-category .top-filter-container .top-filter-box .img-cat-filter-wrapp {
-  max-width: 6.25vw;
 }
 
 @media (max-width: 1023.98px) {
@@ -200,7 +200,6 @@ footer .newsletter .email-field input {
 
   .woocommerce-shop .site-main .top-filter-category .top-filter-container .top-filter-box .img-cat-filter-wrapp, 
   .woocommerce.tax-product_cat .site-main .top-filter-category .top-filter-container .top-filter-box .img-cat-filter-wrapp {
-    max-width: 19.25vw;
   }
 }
 

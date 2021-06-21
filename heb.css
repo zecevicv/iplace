@@ -441,6 +441,10 @@ footer .newsletter .email-field input {
   .cart-container .cart-items .cart-item .cart-item-footer {
     display: block;
   }
+
+  .cart-container .cart-items {
+    font-size: 4vw;
+  }
 }
 
 /* #TV Page

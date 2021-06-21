@@ -227,8 +227,8 @@ footer .newsletter .email-field input {
 
   .woocommerce-shop .site-main .shop-sidebar-wrappe aside.sidebar .side-filter-list .filter-item-content .facetwp-facet .facetwp-checkbox.checked::after, 
   .woocommerce.tax-product_cat .site-main .shop-sidebar-wrappe aside.sidebar .side-filter-list .filter-item-content .facetwp-facet .facetwp-checkbox.checked::after {
-    top: .175vw;
-    right: .175vw;
+    top: .8vw;
+    right: .8vw;
     width: 2.4vw;
     height: 2.4vw;
   }

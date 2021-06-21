@@ -450,6 +450,7 @@ footer .newsletter .email-field input {
   font-size: 1.04167rem;
   border-radius: 500px;
   line-height: inherit;
+  font-weight: 400;
 }
 
 @media (max-width: 1023.98px) {

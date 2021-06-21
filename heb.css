@@ -453,6 +453,10 @@ footer .newsletter .email-field input {
   font-weight: 400;
 }
 
+.woocommerce-cart .woocommerce, .woocommerce-cart .woocommerce-page {
+  margin-top: 3rem;
+}
+
 @media (max-width: 1023.98px) {
   .cart-container .cart-items .cart-item .cart-item-footer .cart-item-amount button.product-quantity {
     width: 6.66667rem;

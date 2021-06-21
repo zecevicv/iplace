@@ -82,6 +82,10 @@
     font-size: 4.26vw;
     margin-bottom: 4.6vw;
   }
+
+  .card.horizontal.small .card-img {
+    margin-left: 2.4vw;
+  }
 }
 
 /* #Header

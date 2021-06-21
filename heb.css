@@ -25,6 +25,10 @@
   .card .links > * {
     margin: 0 2vw;
   }
+
+  .card.horizontal.small .purchase {
+    padding: 1.05rem 3.86667rem 0.66667rem 3.86667rem;
+  }
 }
 
 /* #Header

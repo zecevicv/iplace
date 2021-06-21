@@ -31,6 +31,10 @@
   margin-bottom: .5vw;
 }
 
+.card.vertical .purchase-container {
+  margin-bottom: 0;
+}
+
 @media (max-width: 1023.98px) {
   .card.horizontal {
     box-shadow: 0px 12px 21px #00000029;

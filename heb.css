@@ -436,6 +436,7 @@ footer .newsletter .email-field input {
 
 .woocommerce-info::before {
   color: black;
+  right: 0;
 }
 
 @media (max-width: 1023.98px) {

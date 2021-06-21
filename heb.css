@@ -32,7 +32,7 @@
 }
 
 .card.vertical .purchase-container {
-  margin-bottom: 0;
+  margin-bottom: 0!important;
 }
 
 @media (max-width: 1023.98px) {

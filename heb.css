@@ -472,6 +472,14 @@ footer .newsletter .email-field input {
   .cart-container .cart-items {
     font-size: 4vw;
   }
+
+  .woocommerce #respond input#submit, 
+  .woocommerce a.button, 
+  .woocommerce button.button, 
+  .woocommerce input.button {
+    font-size: 3.73333rem;
+    padding: .66667rem 3.86667rem;
+  }
 }
 
 /* #TV Page

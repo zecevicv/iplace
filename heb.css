@@ -65,6 +65,10 @@
     font-size: 4.26vw!important;
     margin-bottom: 6.93vw;
   }
+
+  .card-container .card-content .purchase-container a {
+    font-size: 3.83vw;
+  }
 }
 
 /* #Header

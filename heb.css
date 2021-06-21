@@ -74,7 +74,7 @@
     font-size: 3.83vw!important;
   }
 
-  .card-container .card-horizontal .card-content .purchase-container .prices {
+  .card.horizontal.small .prices {
     margin-bottom: 0;
   }
 }

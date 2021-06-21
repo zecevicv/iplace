@@ -480,7 +480,7 @@ footer .newsletter .email-field input {
   .woocommerce button.button, 
   .woocommerce input.button {
     font-size: 3.73333rem;
-    padding: .66667rem 3.86667rem 1rem 3.86667rem;
+    padding: .66667rem 3.86667rem 1.5rem 3.86667rem;
   }
 }
 

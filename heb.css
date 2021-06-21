@@ -220,14 +220,9 @@ footer .newsletter .email-field input {
   margin-bottom: 3.875rem;
 }
 
-#product-purchase-price-total-note {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
 #product-purchase-price-total-note svg {
   margin-right: 1vw;
+  vertical-align: middle;
 }
 
 @media (max-width: 1023.98px) {
@@ -444,8 +439,8 @@ footer .newsletter .email-field input {
 .woocommerce a.button, 
 .woocommerce button.button, 
 .woocommerce input.button {
-  background-color: #2997FF;
-  color: #fff;
+  background-color: #2997FF!important;
+  color: #fff!important;
   padding: .26042rem 1.40625rem .35rem 1.40625rem;
   font-size: 1.04167rem;
   border-radius: 500px;

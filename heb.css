@@ -446,7 +446,7 @@ footer .newsletter .email-field input {
 .woocommerce input.button {
   background-color: #2997FF;
   color: #fff;
-  padding: .26042rem 1.40625rem;
+  padding: .26042rem 1.40625rem .35rem 1.40625rem;
   font-size: 1.04167rem;
   border-radius: 500px;
   line-height: inherit;
@@ -480,7 +480,7 @@ footer .newsletter .email-field input {
   .woocommerce button.button, 
   .woocommerce input.button {
     font-size: 3.73333rem;
-    padding: .66667rem 3.86667rem;
+    padding: .66667rem 3.86667rem .8rem 3.86667rem;
   }
 }
 

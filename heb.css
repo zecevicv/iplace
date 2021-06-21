@@ -77,6 +77,10 @@
   .card.horizontal.small .prices {
     margin-bottom: 0;
   }
+
+  .card-horizontal .card-content .woocommerce-loop-product__title {
+    font-size: 4.26vw;
+  }
 }
 
 /* #Header

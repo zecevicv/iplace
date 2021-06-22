@@ -136,6 +136,7 @@ footer .newsletter .email-field input {
 
   #home-links .home-links-link {
     background-size: cover;
+    background-position: top right;
   }
 }
 

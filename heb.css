@@ -336,6 +336,10 @@ footer .newsletter .email-field input {
   .woocommerce ul.products li.product .product-item-link-row .link-to-singl-product, .woocommerce-page ul.products li.product .product-item-link-row .link-to-singl-product {
     font-size: 3.83vw;
   }
+
+  .card-container .attachment-woocommerce_thumbnail {
+    margin-bottom: 4.53333rem;
+  }
 }
 
 /* #Product

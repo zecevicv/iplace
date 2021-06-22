@@ -81,6 +81,10 @@
   .slider .slider-toggle-title {
     font-size: 7.33vw;
   }
+
+  .home-slides-toggle img {
+    margin-bottom: 2vw;
+  } 
 }
 
 /* #Header

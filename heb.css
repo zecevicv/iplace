@@ -68,6 +68,10 @@
   .card.horizontal.small .card-img {
     margin-left: 2.4vw;
   }
+
+  .slider .slider-choose-type .radio-btn input:checked+label {
+    font-size: 3.73vw;
+  }
 }
 
 /* #Header

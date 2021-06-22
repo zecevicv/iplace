@@ -596,3 +596,11 @@ footer .newsletter .email-field input {
     padding-top: 0;
   }
 }
+
+/* #Product Info
+================================================== */
+@media (max-width: 1023.98px) {
+  .purchase-sticky .row-logo-box {
+    display: none;
+  }
+}

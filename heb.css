@@ -328,6 +328,10 @@ footer .newsletter .email-field input {
     width: 2.4vw;
     height: 2.4vw;
   }
+
+  .card-container .today {
+    font-size: 2.93rem;
+  }
 }
 
 /* #Product

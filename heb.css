@@ -133,6 +133,10 @@ footer .newsletter .email-field input {
   #home-links .link-item .p1 {
     font-size: 4.26vw;
   }
+
+  #home-links .home-links-link {
+    background-size: cover;
+  }
 }
 
 /* Properties */

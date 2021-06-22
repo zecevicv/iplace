@@ -118,6 +118,10 @@ footer .newsletter .email-field input {
     font-size: 4vw;
     margin-bottom: 3.5vw;
   }
+
+  #home-header .card.horizontal.large .card-content .h4 {
+    margin-bottom: 7.3vw;
+  }
 }
 
 /* Properties */

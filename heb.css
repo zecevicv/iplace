@@ -8,10 +8,6 @@
   margin: 0 .5vw;
 }
 
-.card .links > *:last-child {
-  margin-left: auto;
-}
-
 .card.vertical .card-content .woocommerce-loop-product__title {
   font-size: 1.04vw;
   margin-bottom: .5vw;
@@ -92,6 +88,10 @@
 
   .card.horizontal.medium {
     padding: 5.67333rem 1.816rem 5.67333rem 4.53333rem;
+  }
+
+  .card .links > *:last-child {
+    margin-left: auto;
   }
 }
 

@@ -89,10 +89,6 @@
   .card.horizontal.medium {
     padding: 5.67333rem 1.816rem 5.67333rem 4.53333rem;
   }
-
-  .card .links > *:not(:first-child) {
-    margin-left: auto;
-  }
 }
 
 /* #Header

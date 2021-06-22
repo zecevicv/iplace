@@ -82,8 +82,8 @@
     font-size: 7.33vw;
   }
 
-  .home-slides-toggle img {
-    margin-bottom: 2vw;
+  .home-slides-toggle .home-slides-toggle-img {
+    margin-bottom: 4vw;
   } 
 }
 

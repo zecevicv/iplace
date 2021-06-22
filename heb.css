@@ -116,6 +116,7 @@ footer .newsletter .email-field input {
 @media (max-width: 1023.98px) {
   #home-header .h3 {
     font-size: 4vw;
+    margin-bottom: 3.5vw;
   }
 }
 

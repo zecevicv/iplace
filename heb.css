@@ -112,6 +112,13 @@ footer .newsletter .email-field input {
 /* #Home
 ================================================== */
 
+/* Header */
+@media (max-width: 1023.98px) {
+  #home-header .h3 {
+    font-size: 4vw;
+  }
+}
+
 /* Properties */
 @media (max-width: 1023.98px) {
   #home-properties .h2 {

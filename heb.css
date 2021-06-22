@@ -349,6 +349,10 @@ footer .newsletter .email-field input {
   .woocommerce-page ul.products li.product .price > * {
     margin: 0 auto;
   }
+
+  .facetwp-facet-pagination .facetwp-load-more {
+    font-size: 3.83vw;
+  }
 }
 
 /* #Product

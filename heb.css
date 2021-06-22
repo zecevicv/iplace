@@ -340,6 +340,9 @@ footer .newsletter .email-field input {
   .card-container .attachment-woocommerce_thumbnail {
     margin-bottom: 4.53333rem;
   }
+
+  .woocommerce ul.products li.product .price, .woocommerce-page ul.products li.product .price {
+    justify-content: center;
 }
 
 /* #Product

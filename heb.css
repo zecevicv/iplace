@@ -73,6 +73,10 @@
   .card-container .card-content .card-content-description {
     font-size: 3.73rem;
   }
+
+  .card-container .card.horizontal.small .purchase-container .prices {
+    font-size: 3.73vw!important;
+  }
 }
 
 /* #Header

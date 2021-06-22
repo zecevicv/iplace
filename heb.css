@@ -68,6 +68,10 @@
   .slider .slider-choose-type .radio-btn input:checked+label {
     font-size: 3.73vw!important;
   }
+
+  .card-container .card-content .card-content-description {
+    font-size: 3.73rem;
+  }
 }
 
 /* #Header

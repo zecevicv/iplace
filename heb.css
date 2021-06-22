@@ -77,6 +77,10 @@
   .card-container .card.horizontal.small .purchase-container .prices {
     font-size: 3.73vw!important;
   }
+
+  .slider .slider-toggle-title {
+    font-size: 7.33vw;
+  }
 }
 
 /* #Header

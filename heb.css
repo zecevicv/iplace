@@ -125,6 +125,10 @@ footer .newsletter .email-field input {
   #home-properties .h2 {
     font-size: 7.33vw;
   }
+
+  #home-links .link-item .h2 {
+    font-size: 7.33vw;
+  }
 }
 
 /* Properties */

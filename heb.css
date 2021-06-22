@@ -343,6 +343,12 @@ footer .newsletter .email-field input {
 
   .woocommerce ul.products li.product .price, .woocommerce-page ul.products li.product .price {
     justify-content: center;
+  }
+
+  .woocommerce ul.products li.product .price > *:nth-child(2), 
+  .woocommerce-page ul.products li.product .price > *:nth-child(2) {
+    margin: 0 auto;
+  }
 }
 
 /* #Product

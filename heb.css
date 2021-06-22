@@ -332,6 +332,10 @@ footer .newsletter .email-field input {
   .card-container .today {
     font-size: 2.93rem;
   }
+
+  .woocommerce ul.products li.product .product-item-link-row .link-to-singl-product, .woocommerce-page ul.products li.product .product-item-link-row .link-to-singl-product {
+    font-size: 3.83vw;
+  }
 }
 
 /* #Product

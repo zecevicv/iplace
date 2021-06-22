@@ -112,7 +112,6 @@ footer .newsletter .email-field input {
 /* #Home
 ================================================== */
 
-/* Header */
 @media (max-width: 1023.98px) {
   #home-header .h3 {
     font-size: 4vw;
@@ -121,6 +120,10 @@ footer .newsletter .email-field input {
 
   #home-header .card.horizontal.large .card-content .h4 {
     margin-bottom: 8vw;
+  }
+
+  #home-properties .h2 {
+    font-size: 7.33vw;
   }
 }
 

@@ -174,6 +174,10 @@ footer .newsletter .email-field input {
   margin-bottom: 1.65vw;
 }
 
+.home-slides-toggle .swiper-container {
+  margin-top: -27px;
+}
+
 .home-slides-toggle .swiper-slide {
   padding: 27px;
 }

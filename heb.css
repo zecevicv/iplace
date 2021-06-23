@@ -104,6 +104,10 @@
   .card.horizontal.medium {
     padding: 5.67333rem 1.816rem 5.67333rem 4.53333rem;
   }
+
+  .card.square {
+    box-shadow: 0px 3.2vw 2.8vw #0000001a;
+  }
 }
 
 /* #Header

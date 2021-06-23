@@ -291,6 +291,10 @@ footer .newsletter .email-field input {
     padding: 3vw 2vw;
     margin-bottom: 10vw;
   }
+
+  .favorites-container .favorites-row-subtitle .favorites-page-subtitle {
+    font-size: 4.26vw;
+  }
 }
 
 /* #Swiper Pagination

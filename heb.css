@@ -815,7 +815,7 @@ footer .newsletter .email-field input {
   }
 
   .card.square .links a {
-    margin-bottom: 0;
+    margin-bottom: 0!important;
   }
 }
 

@@ -710,6 +710,10 @@ footer .newsletter .email-field input {
   #customer-service-nav {
     margin-bottom: 10vw;
   }
+
+  #branch-details-container #branch-subtitle {
+    width: 100%;
+  }
 }
 
 /* #Cart Popup

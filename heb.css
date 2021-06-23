@@ -156,12 +156,11 @@ footer .newsletter .email-field input {
   height: 100%;
 }
 
-.home-slides-toggle .purchase.btn {
+.home-slides-toggle .purchase-container {
   margin-top: auto;
 }
 
-.home-slides-toggle .card-content,
-.home-slides-toggle .purchase-container {
+.home-slides-toggle .card-content {
   flex-grow: 1;
   display: flex;
   flex-direction: column;

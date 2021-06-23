@@ -170,6 +170,10 @@ footer .newsletter .email-field input {
   flex-direction: column;
 }
 
+.home-slides-toggle .home-slides-toggle-content .home-toggle-title {
+  margin-bottom: 1.65vw;
+}
+
 @media (max-width: 1023.98px) {
   #home-header .h3 {
     font-size: 4vw;

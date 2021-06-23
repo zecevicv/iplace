@@ -657,6 +657,7 @@ footer .newsletter .email-field input {
 
 .branch-service-content h5 {
   font-size: 1.56vw;
+  margin-bottom: .78vw;
 }
 
 @media (max-width: 1023.98px) {

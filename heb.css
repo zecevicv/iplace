@@ -794,6 +794,10 @@ footer .newsletter .email-field input {
   .card.square.flip .subtitle {
     margin-bottom: 1rem;
   }
+
+  #product-category-cards .card.square img.img-top-logo {
+    height: 6.93rem;
+  }
 }
 
 /* #Cart Popup

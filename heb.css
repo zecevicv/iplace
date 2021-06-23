@@ -647,6 +647,10 @@ footer .newsletter .email-field input {
   margin-bottom: 2.90625rem;
 }
 
+#branch-details-container {
+  margin-top: 5.2vw;
+}
+
 @media (max-width: 1023.98px) {
   #customer-service-container {
     padding-top: 10vw;

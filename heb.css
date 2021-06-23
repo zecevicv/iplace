@@ -232,6 +232,10 @@ footer .newsletter .email-field input {
   .home-slides-toggle .home-slides-toggle-content .home-toggle-title {
     margin-bottom: 6.25vw;
   }
+
+  .home-slides-toggle .purchase-container {
+    margin-top: auto!important;
+  }
 }
 
 /* #Swiper Pagination

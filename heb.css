@@ -803,6 +803,10 @@ footer .newsletter .email-field input {
   #product-category-cards .card img.img-top-logo {
     margin-bottom: 3vw;
   }
+
+  #product-category-cards .card .p1 {
+    margin-bottom: 3vw;
+  }
 }
 
 /* #Cart Popup

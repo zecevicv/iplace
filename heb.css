@@ -737,6 +737,12 @@ footer .newsletter .email-field input {
   width: 32.04167rem;
 }
 
+@media (max-width: 1023.98px) {
+  #product-purchase-popular.slider .slider-choose-type {
+    width: 96%;
+  }
+}
+
 /* #Cart Popup
 ================================================== */
 .cart-container .cart-footer .btn svg,

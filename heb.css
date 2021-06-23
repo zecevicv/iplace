@@ -799,6 +799,10 @@ footer .newsletter .email-field input {
     height: 6.93rem;
     margin-bottom: 3vw;
   }
+
+  #product-category-cards .card img.img-top-logo {
+    margin-bottom: 3vw;
+  }
 }
 
 /* #Cart Popup

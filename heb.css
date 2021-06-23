@@ -720,6 +720,10 @@ footer .newsletter .email-field input {
     margin: 0 auto;
     padding: 0;
   }
+
+  .branch-strip3 {
+    padding: 9.90625rem 5%;
+  }
 }
 
 /* #Cart Popup

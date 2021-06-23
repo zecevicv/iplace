@@ -724,6 +724,10 @@ footer .newsletter .email-field input {
   .branch-strip3 {
     padding: 5.90625rem 5%;
   }
+
+  .customer-service-links-container .customer-service-links-subtitle {
+    margin: 0 auto 10rem auto;
+  }
 }
 
 /* #Cart Popup

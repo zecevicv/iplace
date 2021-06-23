@@ -785,6 +785,15 @@ footer .newsletter .email-field input {
   .slider .slider-toggle-title {
     margin-bottom: 6rem;
   }
+
+  .card.square {
+    padding-top: 2.66354rem;
+    height: auto;
+  }
+  
+  .card.square.flip .subtitle {
+    margin-bottom: 1rem;
+  }
 }
 
 /* #Cart Popup

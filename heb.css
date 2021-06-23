@@ -266,6 +266,7 @@ footer .newsletter .email-field input {
 @media (max-width: 1023.98px) {
   .most-popular-section .title-section-row .title-section {
     margin-bottom: 6.25vw;
+    font-size: 7.33vw;
   }
 
   .most-popular-section .purchase-container {

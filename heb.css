@@ -764,6 +764,10 @@ footer .newsletter .email-field input {
   #product-purchase-popular .radio-btn label {
     font-size: 2.66667rem!important;
   }
+
+  .slider .slider-toggle-title {
+    margin-bottom: 6rem;
+  }
 }
 
 /* #Cart Popup

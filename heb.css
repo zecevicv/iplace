@@ -737,6 +737,25 @@ footer .newsletter .email-field input {
   width: 32.04167rem;
 }
 
+#product-purchase-popular .swiper-slide {
+  height: auto;
+}
+
+#product-purchase-popular .swiper-slide .card-container,
+#product-purchase-popular .swiper-slide .card {
+  height: 100%;
+}
+
+#product-purchase-popular .purchase-container {
+  margin-top: auto;
+}
+
+#product-purchase-popular .card-content {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+}
+
 @media (max-width: 1023.98px) {
   #product-purchase-popular.slider .slider-choose-type {
     width: 96%;

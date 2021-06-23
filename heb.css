@@ -714,6 +714,12 @@ footer .newsletter .email-field input {
   #branch-details-container #branch-subtitle {
     width: 100%;
   }
+
+  .branch-strip2 {
+    width: 90%;
+    margin: 0 auto;
+    padding: 0;
+  }
 }
 
 /* #Cart Popup

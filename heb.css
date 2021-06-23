@@ -285,6 +285,10 @@ footer .newsletter .email-field input {
     font-size: 7.3vw;
     margin-bottom: 4.6vw;
   }
+
+  .favorites-container .favorites-row-subtitle .order-list-select {
+    box-shadow: 0 24px 31px rgba(0, 0, 0, .1);
+  }
 }
 
 /* #Swiper Pagination

@@ -531,6 +531,10 @@ footer .newsletter .email-field input {
     margin-top: 4rem;
   }
 
+  #product-purchase-popular.slider {
+    overflow: hidden;
+  }
+
   #product-purchase-popular.slider .swiper-container {
     margin: 0 auto;
     width: 96%;

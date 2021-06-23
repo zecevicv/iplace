@@ -174,14 +174,6 @@ footer .newsletter .email-field input {
   margin-bottom: 1.65vw;
 }
 
-.home-slides-toggle .swiper-container {
-  margin-right: -27px;
-}
-
-.home-slides-toggle .swiper-slide {
-  padding: 27px;
-}
-
 @media (max-width: 1023.98px) {
   #home-header .h3 {
     font-size: 4vw;

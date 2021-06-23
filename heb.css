@@ -108,6 +108,10 @@
   .card.square {
     box-shadow: 0px 3.2vw 2.8vw #0000001a;
   }
+
+  .card.horizontal.large {
+    box-shadow: 0px 3.2vw 2.8vw #7965652e;
+  }
 }
 
 /* #Header

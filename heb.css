@@ -160,7 +160,8 @@ footer .newsletter .email-field input {
   margin-top: auto;
 }
 
-.home-slides-toggle .card-content {
+.home-slides-toggle .card-content,
+.home-slides-toggle .purchase-container {
   flex-grow: 1;
   display: flex;
   flex-direction: column;

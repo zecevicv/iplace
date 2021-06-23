@@ -16,7 +16,7 @@
 .card.vertical .purchase-container {
   margin-bottom: 0!important;
 }
-
+/* 
 .card.horizontal.medium {
   align-items: stretch;
 }
@@ -29,7 +29,7 @@
 
 .card.horizontal.medium .card-content .links {
   margin-top: auto;
-}
+} */
 
 @media (max-width: 1023.98px) {
   .card.horizontal {

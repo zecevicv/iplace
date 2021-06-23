@@ -681,6 +681,10 @@ footer .newsletter .email-field input {
   #customer-service-nav #customerServiceNavSlider .nav-btn {
     margin-left: 4vw!important;
   }
+
+  #customer-service-nav {
+    margin-bottom: 18.6vw;
+  }
 }
 
 /* #Cart Popup

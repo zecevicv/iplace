@@ -756,6 +756,10 @@ footer .newsletter .email-field input {
   flex-direction: column;
 }
 
+#product-category-cards .card img.img-top-logo {
+  margin-bottom: 1vw;
+}
+
 @media (max-width: 1023.98px) {
   #product-purchase-popular.slider .slider-choose-type {
     width: 96%;

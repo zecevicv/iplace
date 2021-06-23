@@ -156,6 +156,14 @@ footer .newsletter .email-field input {
   height: 100%;
 }
 
+.home-slides-toggle .purchase.btn {
+  margin-top: auto;
+}
+
+.home-slides-toggle .card-content {
+  flex-grow: 1;
+}
+
 @media (max-width: 1023.98px) {
   #home-header .h3 {
     font-size: 4vw;

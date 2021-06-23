@@ -238,6 +238,27 @@ footer .newsletter .email-field input {
   }
 }
 
+/* Favorites
+================================================== */
+.most-popular-section .swiper-slide {
+  height: auto;
+}
+
+.most-popular-section .swiper-slide .card-container,
+.most-popular-section .swiper-slide .card {
+  height: 100%;
+}
+
+.most-popular-section .purchase-container {
+  margin-top: auto;
+}
+
+.most-popular-section .card-content {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+}
+
 /* #Swiper Pagination
 ================================================== */
 .swiper-pagination-bullet.swiper-pagination-bullet-active {

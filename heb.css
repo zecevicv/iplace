@@ -276,6 +276,11 @@ footer .newsletter .email-field input {
   .most-popular-section .card.vertical .card-content .woocommerce-loop-product__title {
     font-size: 3.73vw;
   }
+
+  .favorites-container .favorites-row-title .favorites-page-title {
+    font-size: 7.3vw;
+    margin-bottom: 4.6vw;
+  }
 }
 
 /* #Swiper Pagination

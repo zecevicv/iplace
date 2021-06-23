@@ -228,6 +228,10 @@ footer .newsletter .email-field input {
   .home-slides-toggle .home-slides-toggle-content .home-choose-type .radio-btn {
     margin-bottom: 2vw;
   }
+
+  .home-slides-toggle .home-slides-toggle-content .home-toggle-title {
+    margin-bottom: 6.25vw;
+  }
 }
 
 /* #Swiper Pagination

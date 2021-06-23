@@ -817,6 +817,10 @@ footer .newsletter .email-field input {
   .card.square .links a {
     margin-bottom: 0!important;
   }
+
+  #product-category-cards .price h4 {
+    font-size: 5.33333rem;
+  }
 }
 
 /* #Cart Popup

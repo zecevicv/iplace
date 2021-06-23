@@ -783,6 +783,10 @@ footer .newsletter .email-field input {
     margin-bottom: 4.66667rem;
   }
 
+  #productCategoryNav .category-item .category-item-img {
+    margin-bottom: 2.4rem;
+  }
+
   #product-purchase-popular.slider .slider-choose-type {
     width: 90%;
   }

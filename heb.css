@@ -151,6 +151,11 @@ footer .newsletter .email-field input {
   height: auto;
 }
 
+.home-slides-toggle .swiper-slide .card-container,
+.home-slides-toggle .swiper-slide .card {
+  height: 100%;
+}
+
 @media (max-width: 1023.98px) {
   #home-header .h3 {
     font-size: 4vw;

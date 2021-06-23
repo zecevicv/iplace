@@ -653,7 +653,10 @@ footer .newsletter .email-field input {
 
 #branch-details-container #branch-subtitle {
   width: 52.07292rem;
-  margin-bottom: 2.8vw;
+}
+
+#branch-details-container .branch-service-content h5 {
+  font-size: 4vw;
 }
 
 @media (max-width: 1023.98px) {

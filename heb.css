@@ -768,6 +768,10 @@ footer .newsletter .email-field input {
   padding-top: 2.66354rem;
 }
 
+.card.square.flip .subtitle {
+  margin-bottom: 1rem;
+}
+
 @media (max-width: 1023.98px) {
   #product-purchase-popular.slider .slider-choose-type {
     width: 96%;

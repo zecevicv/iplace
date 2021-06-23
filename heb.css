@@ -690,6 +690,7 @@ footer .newsletter .email-field input {
     font-size: 4vw;
     width: 8vw;
     height: 8vw;
+    margin: 0 1.26042rem;
   }
 
   .pagination-list-wrapper .page-numbers {

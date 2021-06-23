@@ -17,6 +17,15 @@
   margin-bottom: 0!important;
 }
 
+.card.horizontal.medium .card-content {
+  display: flex;
+  flex-direction: column;
+}
+
+.card.horizontal.medium .card-content .links {
+  margin-top: auto;
+}
+
 @media (max-width: 1023.98px) {
   .card.horizontal {
     box-shadow: 0px 12px 21px #00000029;

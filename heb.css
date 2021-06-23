@@ -259,6 +259,10 @@ footer .newsletter .email-field input {
   flex-direction: column;
 }
 
+.most-popular-section .title-section-row .title-section {
+  margin-bottom: 2.5vw;
+}
+
 /* #Swiper Pagination
 ================================================== */
 .swiper-pagination-bullet.swiper-pagination-bullet-active {

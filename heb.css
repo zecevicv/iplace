@@ -731,6 +731,12 @@ footer .newsletter .email-field input {
   }
 }
 
+/* #Category
+================================================== */
+#product-purchase-popular .slider .slider-choose-type {
+  width: 32.04167rem;
+}
+
 /* #Cart Popup
 ================================================== */
 .cart-container .cart-footer .btn svg,

@@ -112,6 +112,10 @@
   .card.horizontal.large {
     box-shadow: 0px 3.2vw 2.8vw #7965652e;
   }
+
+  .card.square img {
+    height: 9.26667rem;
+  }
 }
 
 /* #Header

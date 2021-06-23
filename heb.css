@@ -677,6 +677,10 @@ footer .newsletter .email-field input {
   #customer-service-nav .link-to-page {
     border-radius: 1.3vw;
   }
+
+  #customer-service-nav #customerServiceNavSlider .nav-btn {
+    margin-left: 4vw!important;
+  }
 }
 
 /* #Cart Popup

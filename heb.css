@@ -534,6 +534,7 @@ footer .newsletter .email-field input {
   #product-purchase-popular.slider .swiper-container {
     margin: 0 auto;
     width: 96%;
+    overflow: visible;
   }
 
   .yith_wapo_groups_container .ywapo_input_container {

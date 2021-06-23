@@ -807,6 +807,10 @@ footer .newsletter .email-field input {
   #product-category-cards .card .p1 {
     margin-bottom: 3vw;
   }
+
+  .card.horizontal.large .card-content .h4 {
+    margin-bottom: 3.8rem;
+  }
 }
 
 /* #Cart Popup

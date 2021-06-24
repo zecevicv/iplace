@@ -544,11 +544,6 @@ footer .newsletter .email-field input {
   margin-top: 1.08333rem;
 }
 
-.variable-item:not(.radio-variable-item) {
-  width: 2vw!important;
-  height: 2vw!important;
-}
-
 @media (max-width: 1023.98px) {
   .single-product .site-main {
     margin-top: 4.16vw;

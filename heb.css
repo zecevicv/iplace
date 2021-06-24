@@ -1422,3 +1422,9 @@ footer .newsletter .email-field input {
 .search-results-container .search-results-items-container .search-results-items>a {
   padding: 1.00521rem .68229rem 1.00521rem 3.73rem;
 }
+
+@media (max-width: 1023.98px) {
+  .search-results-container .search-results-items-container .search-results-items>a {
+    padding: 4.26667rem 1.72rem;
+  }
+}

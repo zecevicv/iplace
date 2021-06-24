@@ -874,6 +874,7 @@ footer .newsletter .email-field input {
 
 .woocommerce-checkout .woocommerce .woocommerce-checkout .order-review-wrapper {
   margin-bottom: 1vw;
+  padding-bottom: 1.5vw;
 }
 
 @media (max-width: 1023.98px) {

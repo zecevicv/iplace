@@ -1246,7 +1246,8 @@ footer .newsletter .email-field input {
     margin-bottom: 4.666vw;
   }
 
-  .woocommerce-cart .woocommerce .container-cart-wrapper table .cart_item .product-name, .woocommerce-cart .woocommerce-page .container-cart-wrapper table .cart_item .product-name {
+  .woocommerce-cart .woocommerce .container-cart-wrapper table .cart_item .product-name, .woocommerce-cart .woocommerce-page .container-cart-wrapper table .cart_item .product-name,
+  .woocommerce-cart .woocommerce .container-cart-wrapper table .cart_item .product-thumbnail, .woocommerce-cart .woocommerce-page .container-cart-wrapper table .cart_item .product-thumbnail {
     padding-top: 7.73vw;
   }
 }

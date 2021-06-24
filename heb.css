@@ -531,6 +531,10 @@ footer .newsletter .email-field input {
   padding: 7.29167rem 28rem;
 }
 
+.woocommerce div.product form.cart .variations {
+  margin-bottom: 3em;
+}
+
 @media (max-width: 1023.98px) {
   .single-product .site-main {
     margin-top: 4.16vw;

@@ -384,6 +384,8 @@ footer .newsletter .email-field input {
 
 .products-container .card.vertical > img {
   height: 10.4vw;
+  width: 100%;
+  object-fit: contain;
   margin-bottom: .5vw;
 }
 

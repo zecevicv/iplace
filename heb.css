@@ -535,6 +535,7 @@ footer .newsletter .email-field input {
   margin-bottom: 3em;
 }
 
+.woocommerce-variation .single_variation,
 .text-new-price {
   font-size: 1.25vw;
 }

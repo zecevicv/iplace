@@ -536,6 +536,10 @@ footer .newsletter .email-field input {
   .woocommerce-page ul.products li.product .price {
     font-size: 3.73vw;
   }
+
+  .products-container .facetwp-facet {
+    margin-bottom: 10vw!important;
+  }
 }
 
 /* #Product

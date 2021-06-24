@@ -368,7 +368,7 @@ footer .newsletter .email-field input {
 }
 
 .facetwp-facet {
-  margin-bottom: 5vw;
+  margin-bottom: 5vw!important;
 }
 
 @media (max-width: 1023.98px) {

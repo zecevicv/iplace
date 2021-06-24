@@ -1227,6 +1227,10 @@ footer .newsletter .email-field input {
     font-size: 3.73333rem;
     padding: .66667rem 3.86667rem 1.5rem 3.86667rem;
   }
+
+  .woocommerce-cart .woocommerce, .woocommerce-cart .woocommerce-page {
+    margin-top: 4rem;
+  }
 }
 
 /* #TV Page

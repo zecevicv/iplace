@@ -349,6 +349,10 @@ footer .newsletter .email-field input {
   border-radius: 50%;
 }
 
+.woocommerce-shop .site-main .woocommerce-breadcrumb, .woocommerce.tax-product_cat .site-main .woocommerce-breadcrumb {
+  margin-top: 0;
+}
+
 @media (max-width: 1023.98px) {
   .facetwp-selections .facetwp-selection-value,
   .woocommerce-shop .site-main .products-container .order-form-wrapper .category-clear-sort .btn-reset-sort-select, 

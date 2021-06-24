@@ -1015,6 +1015,10 @@ footer .newsletter .email-field input {
   .woocommerce .woocommerce-customer-details, .woocommerce .woocommerce-order-details, .woocommerce .woocommerce-order-downloads {
     margin-top: 10vw;
   }
+
+  .woocommerce-account .woocommerce .woocommerce-MyAccount-content .woocommerce-customer-details address {
+    padding: 4rem 4.2rem;
+  }
 }
 
 /* #Customer Service

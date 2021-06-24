@@ -503,7 +503,7 @@ footer .newsletter .email-field input {
 }
 
 #product-purchase-why-container #product-purchase-why .product-purchase-why-item {
-  height: 3.64583rem;
+  height: auto;
 }
 
 @media (max-width: 1023.98px) {

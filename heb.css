@@ -693,8 +693,12 @@ footer .newsletter .email-field input {
   .more-link-row-block .more-link {
     width: 12rem;
     height: 12rem;
-    font-size: 1.5625rem;
+    font-size: 12rem;
     border-radius: 12rem;
+
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
   }
 }
 

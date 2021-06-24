@@ -360,6 +360,7 @@ footer .newsletter .email-field input {
 .woocommerce-shop .site-main .top-filter-category .top-filter-container .top-filter-box .img-cat-filter-wrapp, .woocommerce.tax-product_cat .site-main .top-filter-category .top-filter-container .top-filter-box .img-cat-filter-wrapp {
   height: 100%;
   width: 66%;
+  max-width: 100%;
 }
 
 @media (max-width: 1023.98px) {

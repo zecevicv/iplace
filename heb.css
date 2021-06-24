@@ -757,6 +757,14 @@ footer .newsletter .email-field input {
     border-radius: 1.3vw;
   }
 
+  .go-lightbox-wrapper .media-block-wrapper {
+    width: 90%;
+  }
+
+  .go-lightbox-wrapper.displayed .media-block-wrapper .top-close-btn-wrapp {
+    right: 0!important;
+  }
+
   .go-lightbox-wrapper .media-block-wrapper [data-gol-content-box] {
     font-size: 4vw;
   }

@@ -394,6 +394,11 @@ footer .newsletter .email-field input {
   font-size: 1.04vw;
 }
 
+.woocommerce ul.products li.product .price, 
+.woocommerce-page ul.products li.product .price {
+  font-size: 1.04vw;
+}
+
 @media (max-width: 1023.98px) {
   .facetwp-selections .facetwp-selection-value,
   .woocommerce-shop .site-main .products-container .order-form-wrapper .category-clear-sort .btn-reset-sort-select, 

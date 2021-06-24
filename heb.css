@@ -390,10 +390,7 @@ footer .newsletter .email-field input {
 }
 
 .woocommerce ul.products li.product .woocommerce-loop-product__title, 
-.woocommerce-page ul.products li.product .woocommerce-loop-product__title {
-  font-size: 1.04vw;
-}
-
+.woocommerce-page ul.products li.product .woocommerce-loop-product__title,
 .woocommerce ul.products li.product .price, 
 .woocommerce-page ul.products li.product .price {
   font-size: 1.04vw;
@@ -531,6 +528,13 @@ footer .newsletter .email-field input {
   .products-container .card.vertical > img {
     height: 26.6vw;
     margin-bottom: .5vw;
+  }
+
+  .woocommerce ul.products li.product .woocommerce-loop-product__title, 
+  .woocommerce-page ul.products li.product .woocommerce-loop-product__title,
+  .woocommerce ul.products li.product .price, 
+  .woocommerce-page ul.products li.product .price {
+    font-size: 3.73vw;
   }
 }
 

@@ -1013,7 +1013,7 @@ footer .newsletter .email-field input {
   }
 
   .woocommerce .woocommerce-customer-details, .woocommerce .woocommerce-order-details, .woocommerce .woocommerce-order-downloads {
-    margin-top: 5vw;
+    margin-top: 10vw;
   }
 }
 

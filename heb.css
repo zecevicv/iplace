@@ -689,6 +689,13 @@ footer .newsletter .email-field input {
   #product-purchase-choose #productPurchaseChooseSlider .item-column {
     margin-bottom: 13.13rem;
   }
+
+  .more-link-row-block .more-link {
+    width: 12rem;
+    height: 12rem;
+    font-size: 1.5625rem;
+    border-radius: 12rem;
+  }
 }
 
 /* #Checkout

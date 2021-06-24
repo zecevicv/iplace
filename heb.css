@@ -741,6 +741,9 @@ footer .newsletter .email-field input {
     padding-right: 4.3rem;
   }
   
+  #product-purchase-properties-container #product-purchase-properties-content #before-trade {
+    margin-bottom: 0;
+  }
 }
 
 /* #Checkout

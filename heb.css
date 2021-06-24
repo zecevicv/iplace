@@ -890,6 +890,10 @@ footer .newsletter .email-field input {
   width: 8rem;
 }
 
+.woocommerce-checkout .woocommerce-billing-fields h3 {
+  font-size: 2vw;
+}
+
 @media (max-width: 1023.98px) {
   .woocommerce ul.order_details {
     font-size: 4vw;

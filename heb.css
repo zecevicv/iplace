@@ -99,6 +99,7 @@
 
   .home-slides-toggle .home-slides-toggle-img {
     margin-bottom: 4vw;
+    object-fit: contain;
   } 
 
   .card.horizontal.medium {

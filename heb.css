@@ -1283,6 +1283,10 @@ footer .newsletter .email-field input {
   .woocommerce table.shop_table td {
     padding-left: 0;
   }
+
+  .complementary-products-container-wrapper .complementary-products-container-title {
+    font-size: 3.34375rem;
+  }
 }
 
 /* #TV Page

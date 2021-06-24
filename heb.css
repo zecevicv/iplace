@@ -1279,6 +1279,11 @@ footer .newsletter .email-field input {
     margin: 0 auto 6vw 0;
     width: 62vw;
   }
+
+  .woocommerce table.shop_table td {
+    padding-left: 0;
+    padding-right: 0;
+  }
 }
 
 /* #TV Page

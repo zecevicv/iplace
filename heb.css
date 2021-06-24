@@ -544,10 +544,6 @@ footer .newsletter .email-field input {
   margin-top: 1.08333rem;
 }
 
-.woo-variation-swatches .variations .variable-items-wrapper:not(.color-variable-wrapper) .variable-item:not(.radio-variable-item) .variable-item-contents {
-  padding: 1.3rem 1.61458rem;
-}
-
 @media (max-width: 1023.98px) {
   .single-product .site-main {
     margin-top: 4.16vw;

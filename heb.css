@@ -134,6 +134,12 @@
   padding-top: 2vw;
 }
 
+@media (max-width: 1023.98px) {
+  .nav-mob {
+    padding: 15.74rem 4.8rem 17.33333rem;
+  }
+}
+
 /* #Footer
 ================================================== */
 footer .newsletter .email-field input {

@@ -557,6 +557,10 @@ footer .newsletter .email-field input {
   .woocommerce-shop .site-main .products-container, .woocommerce.tax-product_cat .site-main .products-container {
     padding-right: 0;
   }
+
+  .woocommerce-shop .site-main .shop-sidebar-wrappe aside.sidebar .side-filter-list .filter-item-title, .woocommerce.tax-product_cat .site-main .shop-sidebar-wrappe aside.sidebar .side-filter-list .filter-item-title {
+    margin-bottom: 6vw;
+  }
 }
 
 /* #Product

@@ -943,6 +943,10 @@ footer .newsletter .email-field input {
   font-size: 2.08333rem;
 }
 
+.woocommerce-account .woocommerce .woocommerce-MyAccount-navigation ul {
+  margin: 1.91667rem auto 3.85417rem;
+}
+
 @media (max-width: 1023.98px) {
   .woocommerce-account.logged-out .woocommerce {
     margin: 17rem auto 20rem;

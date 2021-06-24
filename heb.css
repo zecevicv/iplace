@@ -1123,7 +1123,7 @@ footer .newsletter .email-field input {
   }
 }
 
-/* #Cart Popup
+/* #Cart
 ================================================== */
 .cart-container .cart-footer .btn svg,
 .cart-container .cart-footer .btn svg > * {
@@ -1171,6 +1171,10 @@ footer .newsletter .email-field input {
 
 .woocommerce-cart .woocommerce, .woocommerce-cart .woocommerce-page {
   margin-top: 3rem;
+}
+
+.coupon-row-wrapper form.checkout_coupon {
+  margin-bottom: 0;
 }
 
 @media (max-width: 1023.98px) {

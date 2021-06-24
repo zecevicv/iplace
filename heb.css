@@ -756,6 +756,10 @@ footer .newsletter .email-field input {
   .woo-variation-swatches .variations .variable-items-wrapper:not(.color-variable-wrapper) .variable-item:not(.radio-variable-item) .variable-item-contents {
     border-radius: 1.3vw;
   }
+
+  .go-lightbox-wrapper .media-block-wrapper [data-gol-content-box] {
+    font-size: 4vw;
+  }
 }
 
 /* #Checkout

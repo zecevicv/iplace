@@ -898,6 +898,10 @@ footer .newsletter .email-field input {
   .woocommerce ul.order_details {
     font-size: 4vw;
   }
+
+  .woocommerce-checkout .woocommerce .woocommerce-checkout .order-review-wrapper {
+    padding: 5.33333rem;
+  }
 }
 
 /* #My Account

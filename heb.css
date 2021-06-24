@@ -677,6 +677,10 @@ footer .newsletter .email-field input {
   #product-purchase-choose #productPurchaseChooseSlider .choose-item-img {
     margin-bottom: 7rem;
   }
+
+  #product-purchase-choose #productPurchaseChooseSlider .purchase {
+    padding: 2.66667rem 9.13333rem;
+  }
 }
 
 /* #Checkout

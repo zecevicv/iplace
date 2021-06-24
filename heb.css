@@ -877,6 +877,11 @@ footer .newsletter .email-field input {
   padding-bottom: 1.5vw;
 }
 
+.woocommerce-checkout .woocommerce .woocommerce-checkout .order-review-wrapper #order_review table .cart_item .product-thumbnail,
+.woocommerce-checkout .woocommerce .woocommerce-checkout .order-review-wrapper #order_review table .cart_item .product-name {
+  padding: 1vw 0;
+}
+
 @media (max-width: 1023.98px) {
   .woocommerce ul.order_details {
     font-size: 4vw;

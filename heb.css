@@ -1250,6 +1250,10 @@ footer .newsletter .email-field input {
   .woocommerce-cart .woocommerce .container-cart-wrapper table .cart_item .product-thumbnail, .woocommerce-cart .woocommerce-page .container-cart-wrapper table .cart_item .product-thumbnail {
     padding-top: 7.73vw;
   }
+  
+  .woocommerce-cart .woocommerce .container-cart-wrapper table .cart_item .product-subtotal, .woocommerce-cart .woocommerce-page .container-cart-wrapper table .cart_item .product-subtotal {
+    padding-bottom: 7.73vw;
+  }
 }
 
 /* #TV Page

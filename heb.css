@@ -736,6 +736,11 @@ footer .newsletter .email-field input {
   #product-purchase-properties-container #product-purchase-properties-content #product-purchase-title {
     margin-bottom: 6.66667rem;
   }
+
+  #product-purchase-properties-container #product-purchase-properties-content #product-purchase-prices .product-purchase-price.last {
+    padding-right: 4.3rem;
+  }
+  
 }
 
 /* #Checkout

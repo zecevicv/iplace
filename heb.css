@@ -1181,6 +1181,11 @@ footer .newsletter .email-field input {
   margin-bottom: 0;
 }
 
+.woocommerce-cart .woocommerce .cart-collaterals .cart_totals, 
+.woocommerce-cart .woocommerce-page .cart-collaterals .cart_totals {
+  margin-bottom: 1vw;
+}
+
 @media (max-width: 1023.98px) {
   .cart-container .cart-items .cart-item .cart-item-footer .cart-item-amount button.product-quantity {
     width: 6.66667rem;

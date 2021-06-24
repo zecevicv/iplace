@@ -1234,6 +1234,8 @@ footer .newsletter .email-field input {
 
   .woocommerce-cart .woocommerce .container-cart-wrapper .shopping-cart-title-wrap .shopping-cart-title, .woocommerce-cart .woocommerce-page .container-cart-wrapper .shopping-cart-title-wrap .shopping-cart-title {
     text-align: center;
+    font-size: 7.33vw;
+    margin-top: 6vw;
   }
 }
 

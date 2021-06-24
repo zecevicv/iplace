@@ -1258,6 +1258,10 @@ footer .newsletter .email-field input {
   .woocommerce-cart .woocommerce .container-cart-wrapper table .cart_item .product-remove, .woocommerce-cart .woocommerce-page .container-cart-wrapper table .cart_item .product-remove {
     bottom: 6vw;
   }
+
+  .woocommerce td.product-name .wc-item-meta, .woocommerce td.product-name dl.variation {
+    margin: 2vw 0;
+  }
 }
 
 /* #TV Page

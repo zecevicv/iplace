@@ -1412,3 +1412,13 @@ footer .newsletter .email-field input {
     display: none;
   }
 }
+
+/* #Search
+================================================== */
+.search-results-container .search-results-items-container .search-results-items>a>img {
+  margin-left: 1.20833rem;
+}
+
+.search-results-container .search-results-items-container .search-results-items>a {
+  padding: 1.00521rem .68229rem 1.00521rem 3.73rem;
+}

@@ -872,6 +872,10 @@ footer .newsletter .email-field input {
   margin-bottom: 0;
 }
 
+.woocommerce-checkout .woocommerce .woocommerce-checkout .order-review-wrapper {
+  margin-bottom: 1vw;
+}
+
 @media (max-width: 1023.98px) {
   .woocommerce ul.order_details {
     font-size: 4vw;

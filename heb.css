@@ -898,6 +898,10 @@ footer .newsletter .email-field input {
   padding-right: .5em;
 }
 
+.woocommerce-form__label-for-checkbox {
+  padding-top: 0;
+}
+
 @media (max-width: 1023.98px) {
   .woocommerce ul.order_details {
     font-size: 4vw;

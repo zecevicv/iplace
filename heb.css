@@ -1262,6 +1262,10 @@ footer .newsletter .email-field input {
   .woocommerce td.product-name .wc-item-meta, .woocommerce td.product-name dl.variation {
     padding: 2vw 0;
   }
+
+  .woocommerce-cart .woocommerce .container-cart-wrapper table .cart_item .product-subtotal .quantity-box-row, .woocommerce-cart .woocommerce-page .container-cart-wrapper table .cart_item .product-subtotal .quantity-box-row {
+    padding-bottom: 2vw;
+  }
 }
 
 /* #TV Page

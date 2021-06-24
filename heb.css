@@ -518,6 +518,10 @@ footer .newsletter .email-field input {
   margin-bottom: 3rem;
 }
 
+.woocommerce div.product .woocommerce-tabs ul.tabs {
+  padding: 0;
+}
+
 @media (max-width: 1023.98px) {
   .single-product .site-main {
     margin-top: 4.16vw;

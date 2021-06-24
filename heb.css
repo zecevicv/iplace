@@ -371,6 +371,11 @@ footer .newsletter .email-field input {
   margin-bottom: 5vw!important;
 }
 
+.woocommerce-shop .site-main .products-container, .woocommerce.tax-product_cat .site-main .products-container {
+  flex: 1 0 73%;
+  -webkit-flex: 1 0 73%;
+}
+
 @media (max-width: 1023.98px) {
   .facetwp-selections .facetwp-selection-value,
   .woocommerce-shop .site-main .products-container .order-form-wrapper .category-clear-sort .btn-reset-sort-select, 

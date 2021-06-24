@@ -553,6 +553,10 @@ footer .newsletter .email-field input {
   .card.vertical .card-top {
     margin-bottom: 1rem;
   }
+
+  .woocommerce-shop .site-main .products-container, .woocommerce.tax-product_cat .site-main .products-container {
+    padding-right: 0;
+  }
 }
 
 /* #Product

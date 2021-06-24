@@ -1231,6 +1231,10 @@ footer .newsletter .email-field input {
   .woocommerce-cart .woocommerce, .woocommerce-cart .woocommerce-page {
     margin-top: 4rem;
   }
+
+  .woocommerce-cart .woocommerce .container-cart-wrapper .shopping-cart-title-wrap .shopping-cart-title, .woocommerce-cart .woocommerce-page .container-cart-wrapper .shopping-cart-title-wrap .shopping-cart-title {
+    text-align: center;
+  }
 }
 
 /* #TV Page

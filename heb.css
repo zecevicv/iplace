@@ -746,7 +746,7 @@ footer .newsletter .email-field input {
   }
 
   .woo-variation-swatches.rtl .variable-items-wrapper .variable-item:not(.radio-variable-item) {
-    margin-bottom: 2.6vw;
+    margin-bottom: 3.6vw!important;
   }
 }
 

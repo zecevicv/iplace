@@ -375,6 +375,13 @@ footer .newsletter .email-field input {
   margin-bottom: 4vw;
 }
 
+.woocommerce-shop .site-main .products-container .order-form-wrapper, 
+.woocommerce.tax-product_cat .site-main .products-container .order-form-wrapper,
+.woocommerce-shop .site-main .products-container .result-count-wrapper, 
+.woocommerce.tax-product_cat .site-main .products-container .result-count-wrapper {
+  margin-bottom: 1vw;
+}
+
 @media (max-width: 1023.98px) {
   .facetwp-selections .facetwp-selection-value,
   .woocommerce-shop .site-main .products-container .order-form-wrapper .category-clear-sort .btn-reset-sort-select, 

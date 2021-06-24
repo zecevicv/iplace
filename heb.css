@@ -545,8 +545,8 @@ footer .newsletter .email-field input {
 }
 
 .variable-item:not(.radio-variable-item) {
-  width: 2vw;
-  height: 2vw;
+  width: 2vw!important;
+  height: 2vw!important;
 }
 
 @media (max-width: 1023.98px) {

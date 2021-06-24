@@ -879,7 +879,7 @@ footer .newsletter .email-field input {
 
 .woocommerce-checkout .woocommerce .woocommerce-checkout .order-review-wrapper #order_review table .cart_item .product-thumbnail,
 .woocommerce-checkout .woocommerce .woocommerce-checkout .order-review-wrapper #order_review table .cart_item .product-name {
-  padding: 1vw 0;
+  padding: 1vw 12px;
 }
 
 @media (max-width: 1023.98px) {

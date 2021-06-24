@@ -681,6 +681,10 @@ footer .newsletter .email-field input {
   #product-purchase-choose #productPurchaseChooseSlider .purchase {
     padding: 2.66667rem 9.13333rem;
   }
+
+  #product-purchase-choose #productPurchaseChooseSlider .item-column .title-big {
+    font-size: 10rem;
+  }
 }
 
 /* #Checkout

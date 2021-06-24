@@ -1316,6 +1316,12 @@ footer .newsletter .email-field input {
   width: 10.41667rem;
 }
 
+.cart-container .cart-footer .btn {
+  width: 100%;
+  justify-content: center;
+  text-align: center;
+}
+
 @media (max-width: 1023.98px) {
   .cart-container .cart-items .cart-item .cart-item-footer .cart-item-amount button.product-quantity {
     width: 6.66667rem;

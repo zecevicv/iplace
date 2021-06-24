@@ -1190,6 +1190,13 @@ footer .newsletter .email-field input {
   font-size: 1.04vw;
 }
 
+#add_payment_method .wc-proceed-to-checkout a.checkout-button svg, 
+.woocommerce-cart .wc-proceed-to-checkout a.checkout-button svg, 
+.woocommerce-checkout .wc-proceed-to-checkout a.checkout-button svg {
+  color: white;
+  stroke: white;
+}
+
 @media (max-width: 1023.98px) {
   .cart-container .cart-items .cart-item .cart-item-footer .cart-item-amount button.product-quantity {
     width: 6.66667rem;

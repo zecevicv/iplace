@@ -987,6 +987,10 @@ footer .newsletter .email-field input {
   .woocommerce-account .woocommerce .woocommerce-MyAccount-content .woocommerce-Address {
     padding: 4rem;
   }
+
+  #customer-service-title .account-title, #account-title .account-title {
+    font-size: 7.33rem;
+  }
 }
 
 /* #Customer Service

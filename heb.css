@@ -1197,10 +1197,6 @@ footer .newsletter .email-field input {
   stroke: white;
 }
 
-.quantity-box-row .quantity-box button.product-quantity-btn {
-  margin-top: -.2vw;
-}
-
 @media (max-width: 1023.98px) {
   .cart-container .cart-items .cart-item .cart-item-footer .cart-item-amount button.product-quantity {
     width: 6.66667rem;

@@ -720,6 +720,10 @@ footer .newsletter .email-field input {
   #product-purchase-why-container {
     margin-bottom: 22.22667rem;
   }
+
+  #product-purchase-nav-container {
+    padding: 0 5.06667rem;
+  }
 }
 
 /* #Checkout

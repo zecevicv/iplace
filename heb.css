@@ -728,6 +728,10 @@ footer .newsletter .email-field input {
   .woocommerce div.product .woocommerce-tabs .panel {
     margin: 0 0 3em;
   }
+
+  #product-purchase-policy-container .product-purchase-policy img {
+    width: 6.9vw;
+  }
 }
 
 /* #Checkout

@@ -125,6 +125,10 @@
   margin-left: 0;
 }
 
+.nav-desk-products-container .nav-desk-category .nav-row-sublink {
+  margin-bottom: 2.82292rem;
+}
+
 /* #Footer
 ================================================== */
 footer .newsletter .email-field input {

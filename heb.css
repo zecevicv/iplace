@@ -952,6 +952,10 @@ footer .newsletter .email-field input {
   height: 3rem;
 }
 
+.woocommerce-account .woocommerce #account-nav-container {
+  margin-bottom: 2.85417rem;
+}
+
 @media (max-width: 1023.98px) {
   .woocommerce-account.logged-out .woocommerce {
     margin: 17rem auto 20rem;

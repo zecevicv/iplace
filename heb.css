@@ -1427,4 +1427,8 @@ footer .newsletter .email-field input {
   .search-results-container .search-results-items-container .search-results-items>a {
     padding: 4.26667rem 1.72rem;
   }
+
+  .search-results-container .search-results-items-container .search-results-items>a>img {
+    margin-left: 5.20833rem;
+  }
 }

@@ -383,9 +383,7 @@ footer .newsletter .email-field input {
 }
 
 .products-container .card.vertical > img {
-  width: 10.4vw;
   height: 10.4vw;
-  object-fit: contain;
   margin-bottom: .5vw;
 }
 
@@ -526,6 +524,11 @@ footer .newsletter .email-field input {
 
   .woocommerce-shop .site-main .top-filter-category .top-filter-container .top-filter-box .img-cat-filter-wrapp, .woocommerce.tax-product_cat .site-main .top-filter-category .top-filter-container .top-filter-box .img-cat-filter-wrapp {
     width: 85%;
+  }
+
+  .products-container .card.vertical > img {
+    height: 26.6vw;
+    margin-bottom: .5vw;
   }
 }
 

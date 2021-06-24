@@ -652,6 +652,10 @@ footer .newsletter .email-field input {
   #product-purchase-price-total-note svg {
     margin-right: 1vw;
   }  
+
+  #product-purchase-watched {
+    width: 100%;
+  }
 }
 
 /* #Checkout

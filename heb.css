@@ -899,7 +899,7 @@ footer .newsletter .email-field input {
 }
 
 .woocommerce-form__label-for-checkbox {
-  padding-top: 0;
+  padding-right: 0!important;
 }
 
 #add_payment_method #payment div.form-row, .woocommerce-cart #payment div.form-row, .woocommerce-checkout #payment div.form-row {

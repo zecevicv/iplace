@@ -1276,7 +1276,7 @@ footer .newsletter .email-field input {
   }
 
   .woocommerce-cart .woocommerce .cart-collaterals .cart_totals .image-after-link, .woocommerce-cart .woocommerce-page .cart-collaterals .cart_totals .image-after-link {
-    margin: 0 auto;
+    margin: 0 auto 6vw 0;
     width: 62vw;
   }
 }

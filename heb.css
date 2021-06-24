@@ -408,6 +408,10 @@ footer .newsletter .email-field input {
   padding-left: 0;
 }
 
+.woocommerce-shop .site-main .products-container, .woocommerce.tax-product_cat .site-main .products-container {
+  padding-right: 3vw;
+}
+
 @media (max-width: 1023.98px) {
   .facetwp-selections .facetwp-selection-value,
   .woocommerce-shop .site-main .products-container .order-form-wrapper .category-clear-sort .btn-reset-sort-select, 

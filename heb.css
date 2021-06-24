@@ -669,6 +669,10 @@ footer .newsletter .email-field input {
     font-size: 7.33vw;
     margin-bottom: 11.3rem;
   }
+
+  #product-purchase-choose #productPurchaseChooseSlider .product-name {
+    margin-bottom: 5.41867rem;
+  }
 }
 
 /* #Checkout

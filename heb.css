@@ -545,7 +545,7 @@ footer .newsletter .email-field input {
 }
 
 .woo-variation-swatches .variations .variable-items-wrapper:not(.color-variable-wrapper) .variable-item:not(.radio-variable-item) .variable-item-contents {
-  padding: .88542rem 2rem;
+  padding: 1.3rem 1.61458rem;
 }
 
 @media (max-width: 1023.98px) {

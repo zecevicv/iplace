@@ -382,6 +382,12 @@ footer .newsletter .email-field input {
   margin-bottom: 1vw;
 }
 
+.products-container .card.vertical > img {
+  width: 10.4vw;
+  height: 10.4vw;
+  object-fit: contain;
+}
+
 @media (max-width: 1023.98px) {
   .facetwp-selections .facetwp-selection-value,
   .woocommerce-shop .site-main .products-container .order-form-wrapper .category-clear-sort .btn-reset-sort-select, 

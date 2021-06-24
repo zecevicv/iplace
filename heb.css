@@ -548,6 +548,10 @@ footer .newsletter .email-field input {
   padding: 0 17.5rem 0 17.5rem;
 }
 
+#product-purchase-properties-container #product-purchase-properties-content #product-purchase-price-total {
+  padding-top: .3rem;
+}
+
 @media (max-width: 1023.98px) {
   .single-product .site-main {
     margin-top: 4.16vw;

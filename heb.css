@@ -1274,6 +1274,11 @@ footer .newsletter .email-field input {
   .woocommerce-cart .woocommerce .cart-collaterals .cart_totals .wc-proceed-to-checkout, .woocommerce-cart .woocommerce-page .cart-collaterals .cart_totals .wc-proceed-to-checkout {
     margin-bottom: 6vw;
   }
+
+  .woocommerce-cart .woocommerce .cart-collaterals .cart_totals .image-after-link, .woocommerce-cart .woocommerce-page .cart-collaterals .cart_totals .image-after-link {
+    margin: 0 auto;
+    width: 62vw;
+  }
 }
 
 /* #TV Page

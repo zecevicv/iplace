@@ -522,6 +522,10 @@ footer .newsletter .email-field input {
   padding: 0;
 }
 
+#product-purchase-nav-container #product-purchase-nav-content {
+  margin-bottom: .7rem;
+}
+
 @media (max-width: 1023.98px) {
   .single-product .site-main {
     margin-top: 4.16vw;

@@ -486,6 +486,7 @@ footer .newsletter .email-field input {
     flex-wrap: wrap;
     align-items: center;
     justify-content: space-between;
+    margin-bottom: 6vw;
   }
 
   .woocommerce-shop .site-main .shop-sidebar-wrappe aside.sidebar .side-filter-list .filter-item-content .facetwp-facet .facetwp-checkbox.checked::after, 

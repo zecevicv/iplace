@@ -1007,6 +1007,10 @@ footer .newsletter .email-field input {
   .woocommerce-account .woocommerce .woocommerce-MyAccount-content .woocommerce-table--order-details {
     font-size: 4vw;
   }
+
+  .woocommerce-account .woocommerce .woocommerce-MyAccount-content .woocommerce-table--order-details .image-box {
+    width: 13.3vw;
+  }
 }
 
 /* #Customer Service

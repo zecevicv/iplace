@@ -744,6 +744,10 @@ footer .newsletter .email-field input {
   #product-purchase-properties-container #product-purchase-properties-content #before-trade {
     margin-bottom: 0;
   }
+
+  .woo-variation-swatches.rtl .variable-items-wrapper .variable-item:not(.radio-variable-item) {
+    margin-bottom: 2.6vw;
+  }
 }
 
 /* #Checkout

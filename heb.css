@@ -1260,7 +1260,7 @@ footer .newsletter .email-field input {
   }
 
   .woocommerce td.product-name .wc-item-meta, .woocommerce td.product-name dl.variation {
-    margin: 2vw 0;
+    padding: 2vw 0;
   }
 }
 

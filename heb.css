@@ -1440,6 +1440,10 @@ footer .newsletter .email-field input {
   .purchase-sticky .row-logo-box {
     display: none;
   }
+  
+  .purchase-sticky .purchase-sticky-price {
+    width: 49.2rem;
+  }
 }
 
 /* #Search

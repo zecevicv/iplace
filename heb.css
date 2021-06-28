@@ -134,6 +134,10 @@
   padding-top: 2vw;
 }
 
+.header .nav-desk .nav-desk-item {
+  margin-left: 3rem;
+}
+
 @media (max-width: 1023.98px) {
   .nav-mob {
     padding: 15.74rem 4.8rem 17.33333rem;

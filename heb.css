@@ -138,6 +138,10 @@
   margin-left: 3rem;
 }
 
+.header .header-logo {
+  margin-left: 8.51563rem;
+}
+
 @media (max-width: 1023.98px) {
   .nav-mob {
     padding: 15.74rem 4.8rem 17.33333rem;

@@ -690,6 +690,7 @@ footer .newsletter .email-field input {
   height: auto;
   min-width: 19.79167rem;
   width: auto;
+  padding: 1.5rem;
 }
 
 @media (max-width: 1023.98px) {

@@ -654,7 +654,7 @@ footer .newsletter .email-field input {
 }
 
 #product-purchase-policy-container {
-  padding: 7.29167rem 28rem;
+  padding: 7.29167rem 26rem;
 }
 
 .woocommerce div.product form.cart .variations {
@@ -688,8 +688,7 @@ footer .newsletter .email-field input {
 
 #product-purchase-policy-container .product-purchase-policy {
   height: auto;
-  min-width: 19.79167rem;
-  width: auto;
+  width: 21.79167rem;
   padding: 1.5rem;
 }
 

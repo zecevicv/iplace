@@ -586,6 +586,13 @@ footer .newsletter .email-field input {
   }
 }
 
+@media (max-width: 779.98px) {
+  .woocommerce-shop .site-main .top-filter-category .top-filter-container .top-filter-box .facetwp-checkbox, 
+  .woocommerce.tax-product_cat .site-main .top-filter-category .top-filter-container .top-filter-box .facetwp-checkbox {
+    width: 30vw;
+  }
+}
+
 /* #Product
 ================================================== */
 .single-product .site-main {

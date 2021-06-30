@@ -904,6 +904,11 @@ footer .newsletter .email-field input {
   .go-lightbox-wrapper .media-block-wrapper [data-gol-content-box] {
     font-size: 4vw;
   }
+
+  #product-purchase-policy-container .product-purchase-policy {
+    width: 100%;
+    padding: 4.62rem 4.06rem;
+  }
 }
 
 /* #Checkout

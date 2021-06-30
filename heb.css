@@ -688,6 +688,8 @@ footer .newsletter .email-field input {
 
 #product-purchase-policy-container .product-purchase-policy {
   height: auto;
+  min-width: 19.79167rem;
+  width: auto;
 }
 
 @media (max-width: 1023.98px) {

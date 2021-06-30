@@ -589,7 +589,7 @@ footer .newsletter .email-field input {
 @media (max-width: 979.98px) {
   .woocommerce-shop .site-main .top-filter-category .top-filter-container .top-filter-box .facetwp-checkbox, 
   .woocommerce.tax-product_cat .site-main .top-filter-category .top-filter-container .top-filter-box .facetwp-checkbox {
-    width: 30vw!important;
+    width: 37vw!important;
   }
 }
 

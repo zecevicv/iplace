@@ -961,6 +961,10 @@ iframe {
   box-shadow: none;
 }
 
+.payment_total_button {
+  margin-top: 17px;
+}
+
 @media (max-width: 1023.98px) {
   .woocommerce ul.order_details {
     font-size: 4vw;

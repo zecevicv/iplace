@@ -957,6 +957,10 @@ iframe {
   border: none!important;
 }
 
+.payment_total_button #submitbtn, #pinpadEmv {
+  box-shadow: none;
+}
+
 @media (max-width: 1023.98px) {
   .woocommerce ul.order_details {
     font-size: 4vw;

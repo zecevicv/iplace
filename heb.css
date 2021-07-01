@@ -951,6 +951,12 @@ footer .newsletter .email-field input {
   padding-right: 0;
 }
 
+#gobit-iframe-pay,
+#gobit-iframe-div,
+iframe {
+  border: none!important;
+}
+
 @media (max-width: 1023.98px) {
   .woocommerce ul.order_details {
     font-size: 4vw;
